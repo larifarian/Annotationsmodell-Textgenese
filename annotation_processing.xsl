@@ -5,7 +5,7 @@
 
     <xsl:decimal-format name="d" decimal-separator="," grouping-separator="."/>
 
-    <!-- Variable für alles testu -->
+    <!-- Variable für alles test987 -->
     <xsl:variable name="Alles">
         <xsl:copy-of select="/"/>
     </xsl:variable>
