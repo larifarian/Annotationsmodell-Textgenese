@@ -10,7 +10,10 @@
                 <edition><date>2016-02-09</date></edition>
             </editionStmt>
             <publicationStmt>
-                <p>unknown</p>
+                <p>This file shows a stage in transcription between the initial dynamic transliteration following the Graz Method of Dynamic Transcribing (A. Hofmeister-Winter)
+                and a final text that can function as source for a digital edition. This text stage was produced for demonstration purpose only. It may not be published
+                or used for publication in any way. If you want to make futher use of this document and the data it contains contact helmut.klug@uni-graz.at 
+                to negotiate terms of use.</p>
             </publicationStmt>
             <sourceDesc>
                 <p>Converted from a Word document</p>
@@ -59,7 +62,7 @@
                     </category>
                     <category xml:id="DM">
                         <catDesc xml:lang="EN"><title>damage</title> Text or other content is damaged by one of several means.</catDesc>
-                        <catDesc xml:lang="DE"><title>Beschädigung</title> Text oder anderer Inhalt ist aus einem bestimmten Grund beschädigt.</catDesc>
+                        <catDesc xml:lang="DE"><title>Beschädigung</title> Text oder anderer Inhalt ist aus eiben bestimmten Grund beschädigt.</catDesc>
                     </category>
                     <category xml:id="EP">
                         <catDesc xml:lang="EN"><title>expunctuation</title> Text is marked as deleted by one or more dots below or above its characters.</catDesc>
@@ -91,7 +94,7 @@
                     </category>
                     <category xml:id="LI">
                         <catDesc xml:lang="EN"><title>linear</title> Text or other content is added inline.</catDesc>
-                        <catDesc xml:lang="DE"><title>linear</title> Text oder anderer Inhalt wurde in der selben Zeile eingefügt.</catDesc>
+                        <catDesc xml:lang="DE"><title>linear</title> Text oanderer Inhalt wurde in der selben Zeile eingefügt.</catDesc>
                     </category>
                     <category xml:id="MG">
                         <catDesc xml:lang="EN"><title>marginal</title> Text or other content is added on the margin of a page.</catDesc>
@@ -100,10 +103,6 @@
                     <category xml:id="MM">
                         <catDesc xml:lang="EN"><title>metamark</title> Text or other content is referenced with a metamark.</catDesc>
                         <catDesc xml:lang="DE"><title>Verweiszeichen</title> Auf Text oder anderen Inhalt wird mithilfe eines Verweiszeichens hingewiesen.</catDesc>
-                    </category>
-                    <category xml:id="NM">
-                        <catDesc xml:lang="EN"><title>no metamark</title> Text or other content is not referenced with a metamark.</catDesc>
-                        <catDesc xml:lang="DE"><title>kein Verweiszeichen</title> Auf Text oder anderen Inhalt wird ohne Verwendung eines Verweiszeichens hingewiesen.</catDesc>
                     </category>
                     <category xml:id="MV">
                         <catDesc xml:lang="EN"><title>movable</title> Writing media glued or sued to a page can be moved in some way.</catDesc>
@@ -144,7 +143,7 @@
                     </category>
                     <category xml:id="ST">
                         <catDesc xml:lang="EN"><title>overstrike</title> Text or other content is deleted by strinking trough it.</catDesc>
-                        <catDesc xml:lang="DE"><title>Streichung</title> Text oder anderer Inhalt wurde durchgestrichen.</catDesc>
+                        <catDesc xml:lang="DE"><title>Streichung</title> Text oanderer Inhalt wurde durchgestrichen.</catDesc>
                     </category>
                     <category xml:id="SW">
                         <catDesc xml:lang="EN"><title>sewing</title> </catDesc>
@@ -162,10 +161,6 @@
                     <category xml:id="TR">
                         <catDesc xml:lang="EN"><title>revision</title> Some existing text or other content is altered in a certain way.</catDesc>
                         <catDesc xml:lang="DE"><title>Revision</title> Bestehender Text oder anderer Inhalt wurde auf eine bestimmte Art und Weise verändert.</catDesc>
-                    </category>
-                    <category xml:id="WR">
-                        <catDesc xml:lang="EN"><title>writing</title> Some existing text or other content is deleted by using a writing aid.</catDesc>
-                        <catDesc xml:lang="DE"><title>Schreibvorgang</title> Bestehender Text oder anderer Inhalt wurde mithilfe des Schreibwerkzeugs gelöscht.</catDesc>
                     </category>
 
                 </taxonomy>
@@ -301,6 +296,7 @@
                 <change><date>2017-03-05T08:25:19Z</date><name>Helmut Klug</name>Alle Attribute aus <gi>hi</gi>, die Farbe spezifizieren gelöscht</change>
                 <change><date>2017-03-17T20:33:56Z</date><name>Helmut Klug</name>°°/!!++[]-Markup ersetzt</change>
                 <change><date>2017-03-18T19:23:34Z</date><name>Helmut Klug</name>Character Declaration</change>
+                <change><date>2017-04-20T19:23:34Z</date><name>Helmut Klug</name>Annotation of text revision</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
@@ -309,34 +305,34 @@
 
             <div type="Teil_1_Fol_1v-70v">
                 <lg>
-                    <l xml:id="lid_001r01">D<anchor xml:id="ftn1"/>eu hailigeu schrift <mod ana="TR"><add ana="IN.NM.MG.TP" place="inspace">was</add></mod><anchor xml:id="ftn2"/>weilen # e # ebraisch inder alten e # du bart<anchor xml:id="ftn3"/>
+                    <l xml:id="lid_001r01">D<anchor xml:id="ftn1"/>eu hailigeu schrift <mod ana="TR"><add ana="IN.MG.TP" place="inspace">was</add></mod><anchor xml:id="ftn2"/>weilen # e # ebraisch inder alten e # du bart<anchor xml:id="ftn3"/>
                     </l>
-                    <l xml:id="lid_001r02">si<anchor xml:id="ftn4"/> sust gemert # i- chri<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">e</add></mod>chis<anchor xml:id="ftn5"/> verchert; dar nach i- latei-2n pracht # </l>
+                    <l xml:id="lid_001r02">si<anchor xml:id="ftn4"/> sust gemert # i- chri<mod ana="TR"><add ana="IN.IL.AV" place="above">e</add></mod>chis<anchor xml:id="ftn5"/> verchert; dar nach i- latei-2n pracht # </l>
                     <l xml:id="lid_001r03">sei-2t bart dizze also pe dacht; von genuegen die tichten<anchor xml:id="ftn6"/>
                     </l>
                     <l xml:id="lid_001r04">chunden<anchor xml:id="ftn7"/> # </l>
 
                     <l xml:id="lid_001v01">swaz si solher mere vunden; von misleichen od*<anchor xml:id="ftn8"/>
                     </l>
-                    <l xml:id="lid_001v02">von baren # die doch guet ze <mod ana="TR"><add ana="IN.LI">ho<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">e</add></mod><anchor xml:id="ftn9"/>r2en waren #</add></mod><anchor xml:id="ftn10"/> Wie si d<mod ana="TR"><add ana="IN.NM.IL.AV" place="inspace">i</add></mod>e<anchor xml:id="ftn11"/> ten </l>
-                    <l xml:id="lid_001v03">tsen tihten; vnd zu so<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">e</add></mod>lhen<anchor xml:id="ftn12"/> dingen richten; daz seu ai-2n </l>
+                    <l xml:id="lid_001v02">von baren # die doch guet ze <mod ana="TR"><add ana="IN.LI">ho<mod ana="TR"><add ana="IN.IL.AV" place="above">e</add></mod><anchor xml:id="ftn9"/>r2en waren #</add></mod><anchor xml:id="ftn10"/> Wie si d<mod ana="TR"><add ana="IN.IL.AV" place="inspace">i</add></mod>e<anchor xml:id="ftn11"/> ten </l>
+                    <l xml:id="lid_001v03">tsen tihten; vnd zu so<mod ana="TR"><add ana="IN.IL.AV" place="above">e</add></mod>lhen<anchor xml:id="ftn12"/> dingen richten; daz seu ai-2n </l>
 
-                    <l xml:id="lid_002r01"><mod ana="TR" instant="true"><del ana="DL.WR.ST">m</del></mod><anchor xml:id="ftn13"/> iesleich man # der doch der puech nicht enchan # </l>
-                    <l xml:id="lid_002r02">wol endleich uerni-2-<anchor xml:id="ftn14"/>t # vnd paz he<anchor xml:id="ftn15"/> ho<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">e</add></mod>ern<anchor xml:id="ftn16"/> gezimt # der </l>
-                    <l xml:id="lid_002r03">selben han ich ai-2nez ; daz suez<mod ana="TR"><add ana="IN.NM.IL.AV" place="inspace">z</add></mod>er<anchor xml:id="ftn17"/> ni-2e dhai-2nez # von men </l>
+                    <l xml:id="lid_002r01"><mod ana="TR" instant="true"><del ana="DL.ST.IS">m</del></mod><anchor xml:id="ftn13"/> iesleich man # der doch der puech nicht enchan # </l>
+                    <l xml:id="lid_002r02">wol endleich uerni-2-<anchor xml:id="ftn14"/>t # vnd paz he<anchor xml:id="ftn15"/> ho<mod ana="TR"><add ana="IN.IL.AV" place="above">e</add></mod>ern<anchor xml:id="ftn16"/> gezimt # der </l>
+                    <l xml:id="lid_002r03">selben han ich ai-2nez ; daz suez<mod ana="TR"><add ana="IN.IL.AV" place="inspace">z</add></mod>er<anchor xml:id="ftn17"/> ni-2e dhai-2nez # von men </l>
                     <l xml:id="lid_002r04">sen gesribe-<anchor xml:id="ftn18"/>
                     </l>
                     <l xml:id="lid_002r05">bart </l>
 
-                    <l xml:id="lid_002v01">von vnser vrauen hi-2nuart # W<anchor xml:id="ftn19"/>a oder bie si<mod ana="TR" instant="unknown"><del ana="DL.WR.ST">es</del></mod><anchor xml:id="ftn20"/> pelibe # </l>
-                    <l xml:id="lid_002v02">we<mod ana="TR"><add ana="DM.IN.NM.AV" place="above">e</add></mod><anchor xml:id="ftn21"/>r da bas v-d wer sribe # D<anchor xml:id="ftn22"/>u die hailigen zbelf pote- # </l>
+                    <l xml:id="lid_002v01">von vnser vrauen hi-2nuart # W<anchor xml:id="ftn19"/>a oder bie si<mod ana="TR" instant="unknown"><del ana="DL.ST">es</del></mod><anchor xml:id="ftn20"/> pelibe # </l>
+                    <l xml:id="lid_002v02">we<mod ana="TR"><add ana="IN.AV.DM" place="above">e</add></mod><anchor xml:id="ftn21"/>r da bas v-d wer sribe # D<anchor xml:id="ftn22"/>u die hailigen zbelf pote- # </l>
                     <l xml:id="lid_002v03">als in van got bas gepoten # sich taelten beiten i- deu </l>
                     <l xml:id="lid_002v04">lant #<anchor xml:id="ftn23"/>
                     </l>
 
                     <l xml:id="lid_003r01">da bart i- asiam gesant ; sant ioha-nes ewangelist # der </l>
-                    <l xml:id="lid_003r02">vnserm herren christ # durch sei-2nen go<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">e</add></mod><anchor xml:id="ftn24"/>tleiche- ruem # </l>
-                    <l xml:id="lid_003r03">stift<!-- Besserungskorrektur --><mod ana="TR" type="reading_aid"><add ana="DM.IN.NM.AV" place="above">ft</add></mod><anchor xml:id="ftn25"/>et siben Weistue- ; ze helf der chri-2stenhai-2t # die er </l>
+                    <l xml:id="lid_003r02">vnserm herren christ # durch sei-2nen go<mod ana="TR"><add ana="IN.IL.AV" place="above">e</add></mod><anchor xml:id="ftn24"/>tleiche- ruem # </l>
+                    <l xml:id="lid_003r03">stift<!-- Besserungskorrektur --><mod ana="TR" type="reading_aid"><add ana="IN.AV.DM" place="above">ft</add></mod><anchor xml:id="ftn25"/>et siben Weistue- ; ze helf der chri-2stenhai-2t # die er </l>
                     <l xml:id="lid_003r04">vil bol perai-2t;<anchor xml:id="ftn26"/>
                     </l>
 
@@ -351,7 +347,7 @@
                     <l xml:id="lid_004r05">swer A<anchor xml:id="ftn29"/>uer selb </l>
                     <l xml:id="lid_004r06">ni-2cht entuet </l>
 
-                    <l xml:id="lid_004v01">daz er den anderen le<mod ana="TR"><add ana="IN.NM.MG.TP" place="above">e</add></mod>rt<anchor xml:id="ftn30"/> # dester mi-2n sich ieman anchert </l>
+                    <l xml:id="lid_004v01">daz er den anderen le<mod ana="TR"><add ana="IN.MG.TP" place="above">e</add></mod>rt<anchor xml:id="ftn30"/> # dester mi-2n sich ieman anchert </l>
                     <l xml:id="lid_004v02">an dhai-2n sei-2n lere # bant sei-2n lere deu ist an ere # so leret </l>
                     <l xml:id="lid_004v03">dier herre ni-2cht # chund er oder vand er icht ; daz zu gotes </l>
 
@@ -360,9 +356,9 @@
                     <l xml:id="lid_005r03">erhoert # der sel speise daz gotes2 wort ; den gotes2 chi-2nde- </l>
                     <l xml:id="lid_005r04"><anchor xml:id="ftn31"/>tailte # </l>
 
-                    <l xml:id="lid_005v01">mit groezze- fleiz er hailte # die an der sele bar<mod ana="TR"><add ana="IN.NM.MG.TP" place="inspace">e</add></mod>n<anchor xml:id="ftn32"/> bunt # der </l>
+                    <l xml:id="lid_005v01">mit groezze- fleiz er hailte # die an der sele bar<mod ana="TR"><add ana="IN.MG.TP" place="inspace">e</add></mod>n<anchor xml:id="ftn32"/> bunt # der </l>
                     <l xml:id="lid_005v02">machet er hart vil gesu-t # nu baren choer2herren da # in der </l>
-                    <l xml:id="lid_005v03">stat ze laodi-2ci-2a # die santen dich <mod ana="TR"><add ana="IN.NM.IL.AV" place="inspace">ier</add></mod><anchor xml:id="ftn33"/> poten her # zu dem herren </l>
+                    <l xml:id="lid_005v03">stat ze laodi-2ci-2a # die santen dich <mod ana="TR"><add ana="IN.IL.AV" place="inspace">ier</add></mod><anchor xml:id="ftn33"/> poten her # zu dem herren </l>
                     <l xml:id="lid_005v04"><anchor xml:id="ftn34"/>daz er # </l>
 
                     <l xml:id="lid_006r01">in deu gebissen mere # sant ob im chu-t bere # vm </l>
@@ -370,16 +366,16 @@
                     <l xml:id="lid_006r03">ef sribe # Der vil selich mi-2li-2to # der sraib hi-2n bider also # </l>
 
                     <l xml:id="lid_006v01"><anchor xml:id="ftn35"/> deu pesaidenleichen mere # als i-2m ier pflegere # sand iohannes </l>
-                    <l xml:id="lid_006v02">sai-2te # bie ez hin ze<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">u</add></mod><anchor xml:id="ftn36"/> ier hinlaite # oder vm ier anuange ergi-2e # </l>
+                    <l xml:id="lid_006v02">sai-2te # bie ez hin ze<mod ana="TR"><add ana="IN.IL.AV" place="above">u</add></mod><anchor xml:id="ftn36"/> ier hinlaite # oder vm ier anuange ergi-2e # </l>
                     <l xml:id="lid_006v03">also tuen*2 ich eu gepeitet ier hie # D2u got allez daz der </l>
 
                     <l xml:id="lid_007r01">lait # daz noch deu srift von i-2m sait # gepurt marter </l>
-                    <l xml:id="lid_007r02">vrstende # vnd zu<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">e</add></mod><anchor xml:id="ftn37"/> der zelben hende # seines vater gesaz # </l>
-                    <l xml:id="lid_007r03">noch sait uns deu sripft daz # e<mod ana="TR" type="reading_aid"><add ana="IN.NM.IL.AV">^</add></mod><anchor xml:id="ftn38"/> er ande- chra<mod ana="TR"><add ana="IN.IL.AV" place="above">e</add></mod><anchor xml:id="ftn39"/>uz erstur </l>
+                    <l xml:id="lid_007r02">vrstende # vnd zu<mod ana="TR"><add ana="IN.IL.AV" place="above">e</add></mod><anchor xml:id="ftn37"/> der zelben hende # seines vater gesaz # </l>
+                    <l xml:id="lid_007r03">noch sait uns deu sripft daz # e<mod ana="TR" type="reading_aid"><add ana="IN.IL.AV">^</add></mod><anchor xml:id="ftn38"/> er ande- chra<mod ana="TR"><add ana="IN.IL.AV" place="above">e</add></mod><anchor xml:id="ftn39"/>uz erstur </l>
                     <l xml:id="lid_007r04">be<anchor xml:id="ftn40"/>
                     </l>
 
-                    <l xml:id="lid_007v01">daz er sei-2ner mueter der burue # an dem vil <mod ana="TR" instant="true"><del ana="DL.WR.ST">suez</del></mod><anchor xml:id="ftn41"/> rai-2nem </l>
+                    <l xml:id="lid_007v01">daz er sei-2ner mueter der burue # an dem vil <mod ana="TR" instant="true"><del ana="DL.ST.IS">suez</del></mod><anchor xml:id="ftn41"/> rai-2nem </l>
                     <l xml:id="lid_007v02">man-e # dem suezzem sand ioha-ne # ainen getreuen phleger # </l>
                     <l xml:id="lid_007v03">vnd daz er ier enpfolhen ber # er enpfalh in ier an </l>
 
@@ -400,7 +396,7 @@
                     <l xml:id="lid_009v02">daz ich dier sage # du saidest an dem dritem tage # von </l>
                     <l xml:id="lid_009v03">dier belt arbai-2ten # hin da bier dier peraiten # v-d uns her </l>
 
-                    <l xml:id="lid_010r01">vil lange # gegen dei-2nem anfange # gefe<mod ana="TR"><add ana="IN.NM.MG.TP" place="above">r</add></mod><anchor xml:id="ftn46"/>wet und pera<!-- Kann das so bleiben?? Das ist eine Einfügung, aber keine Revision --><add ana="IN.MG.TP" place="above">itet</add><anchor xml:id="ftn47"/>
+                    <l xml:id="lid_010r01">vil lange # gegen dei-2nem anfange # gefe<mod ana="TR"><add ana="IN.MG.TP" place="above">r</add></mod><anchor xml:id="ftn46"/>wet und pera<!-- Kann das so bleiben?? Das ist eine Einfügung, aber keine Revision --><add ana="IN.MG.TP" place="above">itet</add><anchor xml:id="ftn47"/>
                     </l>
                     <l xml:id="lid_010r02">han # da solt tu chunegi-2nne stan # in dem obriste- troene # </l>
                     <l xml:id="lid_010r03">mit zeptro vnd mit chroen # pei des chuneges zeswen sei </l>
@@ -408,18 +404,17 @@
                     </l>
 
                     <l xml:id="lid_010v01">da dich<anchor xml:id="ftn49"/>
-                        <!-- Kann ich das so machen: @type --> e <mod ana="TR" type="reading_aid"><metamark xml:id="MM_lid_010v01_1">|</metamark>
-                            <add ana="IN.MM.MG.TP">^</add><metamark xml:id="MM_lid_010v01_2">|</metamark></mod><anchor xml:id="ftn50"/> voer mani-2gen zeiten # der chu<mod ana="TR"><add ana="IN.NM.MG.TP" place="above">o</add></mod><anchor xml:id="ftn51"/>nech
-                        daui-2d chu<mod ana="TR"><add ana="IN.NM.MG.TP" place="above">o</add></mod><anchor xml:id="ftn52"/>nftich </l>
+                        <!-- Kann ich das so machen: @type --><mod ana="TR" type="reading_aid"><metamark xml:id="MM_lid_010v01_1">|</metamark>e<mod ana="TR" type="reading_aid"><add ana="IN.IL.AV">^</add></mod><metamark xml:id="MM_lid_010v01_2">|</metamark></mod><anchor xml:id="ftn50"/> voer mani-2gen zeiten # der chu<mod ana="TR"><add ana="IN.MG.TP" place="above">o</add></mod><anchor xml:id="ftn51"/>nech
+                        daui-2d chu<mod ana="TR"><add ana="IN.MG.TP" place="above">o</add></mod><anchor xml:id="ftn52"/>nftich </l>
                     <l xml:id="lid_010v02">sach #<anchor xml:id="ftn53"/> vnd daz an sei-2ne- salm sprach # also noch stat gesribe- da # </l>
                     <l xml:id="lid_010v03">astitit regi-2na # adextris tui-2s # also tuet er uns gebis2 # daz du </l>
                     <l>
                         <anchor xml:id="ftn54"/>
                     </l>
                     <l xml:id="lid_011r01">
-                        <anchor xml:id="ftn55"/> ez deu chu<mod ana="TR"><add ana="IN.NM.MG.TP" place="above">o</add></mod>negin<anchor xml:id="ftn56"/> pist<anchor xml:id="ftn57"/> # deu da so bol <mod ana="TR"><metamark xml:id="MM_lid_011r01">|</metamark><add ana="IN.MM.MG.TP" place="inspace">ge</add></mod><anchor xml:id="ftn58"/> / chlait ist # von <unclear>g</unclear>olde<anchor xml:id="ftn59"/>
+                        <anchor xml:id="ftn55"/> ez deu chu<mod ana="TR"><add ana="IN.MG.TP" place="above">o</add></mod>negin<anchor xml:id="ftn56"/> pist<anchor xml:id="ftn57"/> # deu da so bol <mod ana="TR"><metamark xml:id="MM_lid_011r01">|</metamark><add ana="IN.MG.TP" place="inspace">ge</add></mod><anchor xml:id="ftn58"/> / chlait ist # von <unclear>g</unclear>olde<anchor xml:id="ftn59"/>
                     </l>
-                    <l xml:id="lid_011r02">sei-2net gar dei-2n bat # deu mane<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">ge</add></mod><anchor xml:id="ftn60"/> varbe hat # er hat dier<anchor xml:id="ftn61"/>
+                    <l xml:id="lid_011r02">sei-2net gar dei-2n bat # deu mane<mod ana="TR"><add ana="IN.IL.AV" place="above">ge</add></mod><anchor xml:id="ftn60"/> varbe hat # er hat dier<anchor xml:id="ftn61"/>
                     </l>
                     <l xml:id="lid_011r03">frau diz gebant # v-d disen palme her gesant # der buegse </l>
                     <l xml:id="lid_011r04"><anchor xml:id="ftn62"/>i- dem para </l>
@@ -427,7 +422,7 @@
                     </l>
 
                     <l xml:id="lid_011v01">mi-2t de- selben reise # so chundet er dier baren vride # bid* </l>
-                    <l xml:id="lid_011v02">des v<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">o</add></mod>beln<anchor xml:id="ftn64"/> tieuels lide # wider ier hazze vnd bider ier bar2 # </l>
+                    <l xml:id="lid_011v02">des v<mod ana="TR"><add ana="IN.IL.AV" place="above">o</add></mod>beln<anchor xml:id="ftn64"/> tieuels lide # wider ier hazze vnd bider ier bar2 # </l>
                     <l xml:id="lid_011v03">den sol man voer der par # tragen da man dich auf </l>
                     
                    
@@ -435,16 +430,16 @@
                     <l xml:id="lid_012r01">trai-2t # diz snebeize rech chlaid # daz solt du an 
                         <mod ana="TR">
                             <subst ana="RP">
-                                <del ana="DL.WR.ST">tragen # </del>
-                                <add ana="IN.NM.MG.TP" place="above">haben #</add>
+                                <del ana="DL.ST">tragen # </del>
+                                <add ana="MG.TP" place="above">haben #</add>
                             </subst>
                         </mod>
                         <anchor xml:id="ftn65"/>
                     </l>
-                    <l xml:id="lid_012r02">si sp<mod ana="TR"><add ana="IN.NM.MG.TP" place="above">r</add></mod>ach<anchor xml:id="ftn66"/> aube ber sol mich begraben # oder ber pringet </l>
+                    <l xml:id="lid_012r02">si sp<mod ana="TR"><add ana="IN.MG.TP" place="above">r</add></mod>ach<anchor xml:id="ftn66"/> aube ber sol mich begraben # oder ber pringet </l>
                     <l xml:id="lid_012r03">mich dar # vnd berdent mein die i-2uden gebar # si erzai </l>
                     <l xml:id="lid_012r04">gent mier </l>
-                    <l xml:id="lid_012r05">ier alte<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">n</add></mod><anchor xml:id="ftn67"/> haz #<anchor xml:id="ftn68"/>
+                    <l xml:id="lid_012r05">ier alte<mod ana="TR"><add ana="IN.IL.AV" place="above">n</add></mod><anchor xml:id="ftn67"/> haz #<anchor xml:id="ftn68"/>
                     </l>
 
                     <l xml:id="lid_012v01">mei-2nem sun ze laide tuent si daz # W<anchor xml:id="ftn69"/>and ber doch iohannes </l>
@@ -457,28 +452,28 @@
                     <l xml:id="lid_013r03">choment alle her # e dier 
                         <mod ana="TR">
                         <subst ana="RP">
-                            <del ana="DL.WR.ST">tac 
-                                <mod ana="TR">h 
-                                    <add ana="TF.CO.AD">g</add>
-                                </mod>
+                            <del ana="DL.ST">tac 
+                                <del ana="TF">h 
+                                    <add ana="OW">g</add>
+                                </del>
                             </del>
                             <anchor xml:id="ftn70"/>
-                            <add ana="IN.NM.IL.AV" place="above">tag</add>
+                            <add ana="IN.IL.AV" place="above">tag</add>
                         </subst>
                         </mod> noch heut hi-2n erge # v-d da </l>
 
-                    <l xml:id="lid_013v01">zue gueter la<mod ana="TR"><add ana="IN.NM.MG.TP" place="above">e</add></mod><anchor xml:id="ftn71"/>ute mer # ez chumt auch da her mit in # der </l>
+                    <l xml:id="lid_013v01">zue gueter la<mod ana="TR"><add ana="IN.MG.TP" place="above">e</add></mod><anchor xml:id="ftn71"/>ute mer # ez chumt auch da her mit in # der </l>
                     <l xml:id="lid_013v02">i-2unge beni-2ami-2n # paulus der pei neuer ceite # von des </l>
                     <l xml:id="lid_013v03">rezzen bolues geite # lampes milt enpfangen hat # vnd als </l>
 
-                    <l xml:id="lid_014r01">ain barer chemfe stat # mit uns auf deu alten # e<mod ana="TR" type="reading_aid"><add ana="IN.NM.IL.AV">^</add></mod><anchor xml:id="ftn72"/> # den ge </l>
-                    <l xml:id="lid_014r02">lauben den er e<mod ana="TR" type="reading_aid"><add ana="IN.NM.IL.AV">^</add></mod><anchor xml:id="ftn73"/> # also uraisleichen an vaht # auf den stat </l>
+                    <l xml:id="lid_014r01">ain barer chemfe stat # mit uns auf deu alten # e<mod ana="TR" type="reading_aid"><add ana="IN.IL.AV">^</add></mod><anchor xml:id="ftn72"/> # den ge </l>
+                    <l xml:id="lid_014r02">lauben den er e<mod ana="TR" type="reading_aid"><add ana="IN.IL.AV">^</add></mod><anchor xml:id="ftn73"/> # also uraisleichen an vaht # auf den stat </l>
                     <l xml:id="lid_014r03">nu gar sei-n macht # bie er den pestetig nu # gat in der </l>
                     <l xml:id="lid_014r04">belt da zu #<anchor xml:id="ftn74"/>
                     </l>
 
                     <l xml:id="lid_014v01">und pedwungen mit sein selbes hant # der engel mit der </l>
-                    <l xml:id="lid_014v02">versbant # Wier lesen ain altez mere # daz <mod ana="TR" instant="true"><del ana="DL.WR.ST.IS">be</del></mod><anchor xml:id="ftn75"/> ze ierusalem </l>
+                    <l xml:id="lid_014v02">versbant # Wier lesen ain altez mere # daz <mod ana="TR" instant="true"><del ana="DL.ST.IS">be</del></mod><anchor xml:id="ftn75"/> ze ierusalem </l>
                     <l xml:id="lid_014v03">beiln bere # ain beisage abacuch genant # von dem tuet </l>
 
                     <l xml:id="lid_015r01">uns deu srift erchant # der het getwoern ai-2n nues # von </l>
@@ -487,23 +482,23 @@
                     <l xml:id="lid_015r04">mit #<anchor xml:id="ftn76"/>
                     </l>
 
-                    <l xml:id="lid_015v01">der speise bas zeden ceiten sit # vnd bas der berechla<mod ana="TR"><add ana="IN.NM.MG.TP" place="above">e</add></mod>ute<anchor xml:id="ftn77"/>
-                        <mod ana="TR" instant="true"><del ana="DL.WR.ST.IS">sit #</del></mod><anchor xml:id="ftn78"/><!-- Sehfehler beim Abschreiben: Zeilensprung? -->
+                    <l xml:id="lid_015v01">der speise bas zeden ceiten sit # vnd bas der berechla<mod ana="TR"><add ana="IN.MG.TP" place="above">e</add></mod>ute<anchor xml:id="ftn77"/>
+                        <mod ana="TR" instant="true"><del ana="DL.ST.IS">sit #</del></mod><anchor xml:id="ftn78"/><!-- Sehfehler beim Abschreiben: Zeilensprung? -->
                     </l>
                     <l xml:id="lid_015v02">recht # abacuch gotes2 chneht # sprach der engel bider i-2n # </l>
-                    <l xml:id="lid_015v03">pringe disen imbeiz hi-2n # da daniel ze<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">ba</add></mod>bilon<mod ana="TR"><add ana="IN.IL.AV" place="inspace">i</add></mod>e<anchor xml:id="ftn79"/> leit # geuangen </l>
+                    <l xml:id="lid_015v03">pringe disen imbeiz hi-2n # da daniel ze<mod ana="TR"><add ana="IN.IL.AV" place="above">ba</add></mod>bilon<mod ana="TR"><add ana="IN.IL.AV" place="inspace">i</add></mod>e<anchor xml:id="ftn79"/> leit # geuangen </l>
 
                     <l xml:id="lid_016r01">vnd im niemen geit # dehainer slaht leipnar # er sprach </l>
                     <l xml:id="lid_016r02">aube herre bie chum ich dar # babiloni-2e purg vnd lant # </l>
                     <l xml:id="lid_016r03">si-2nt mier paideu un erchant # pei dem bieruloch er i-2n geuie-2 # </l>
 
-                    <l xml:id="lid_016v01">er sazet in al gahens2 hie # ze babiloni-2e da  <mod ana="TR"><metamark xml:id="MM_lid_016v01_1">|</metamark><add ana="IN.MM.IL.AV" place="inspace">er</add></mod><anchor xml:id="ftn80"/> danie-2el  <mod ana="TR"><metamark xml:id="MM_lid_016v01_2">|</metamark><add ana="IN.MM.IL.AV" place="inspace">en</add></mod><anchor xml:id="ftn81"/>
-                        <mod ana="TR"><del ana="DL.WR.ST">bas #</del></mod><anchor xml:id="ftn82"/> vant # diese- </l>
+                    <l xml:id="lid_016v01">er sazet in al gahens2 hie # ze babiloni-2e da  <mod ana="TR"><metamark xml:id="MM_lid_016v01_1">|</metamark><add ana="IN.IL.AV" place="inspace">er</add></mod><anchor xml:id="ftn80"/> danie-2el  <mod ana="TR"><metamark xml:id="MM_lid_016v01_2">|</metamark><add ana="IN.IL.AV" place="inspace">en</add></mod><anchor xml:id="ftn81"/>
+                        <mod ana="TR"><del ana="DL.ST">bas #</del></mod><anchor xml:id="ftn82"/> vant # diese- </l>
                     <l xml:id="lid_016v02">i-2mbeiz hat dier got gesant # sprach der beisag abacuch # </l>
-                    <l xml:id="lid_016v03">noch sneller den aines bindes vl<mod ana="TR"><subst ana="RP"><del ana="DL.BL"><unclear/></del><add ana="IN.NM.IL.AV" place="inspace">u</add></subst></mod>ch<anchor xml:id="ftn83"/> # bart er hin bider gesez<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">t</add></mod><anchor xml:id="ftn84"/>e # </l>
+                    <l xml:id="lid_016v03">noch sneller den aines bindes vl<mod ana="TR"><subst ana="RP"><del ana="DL.BL"><unclear/></del><add ana="IL.AV" place="inspace">u</add></subst></mod>ch<anchor xml:id="ftn83"/> # bart er hin bider geseze<mod ana="TR"><add ana="IN.IL.AV" place="above">t</add></mod><anchor xml:id="ftn84"/> # </l>
 
                     <l xml:id="lid_017r01">daz er nie bart gelezzet # noch gesaumet an seinem # snit # </l>
-                    <l xml:id="lid_017r02">nach der berchleute sit # suef er in <mod ana="TR"><metamark xml:id="MM_lid_017r02">&amp;</metamark><add ana="IN.MM.IL.AV" place="inspace"><metamark corresp="#MM_lid_017r02">&amp;</metamark> # dannoch</add></mod><anchor xml:id="ftn85"/>
+                    <l xml:id="lid_017r02">nach der berchleute sit # suef er in <mod ana="TR"><metamark xml:id="MM_lid_017r02">&amp;</metamark><add ana="IN.IL.AV" place="inspace"><metamark corresp="#MM_lid_017r02">&amp;</metamark> # dannoch</add></mod><anchor xml:id="ftn85"/>
                          genueg # daz er ez den </l>
                     <l xml:id="lid_017r03">berchlauten trueg # Got unser herre der pe gie # der seben bun </l>
                     <l xml:id="lid_017r04">der ai-2nez hie #<anchor xml:id="ftn87"/>
@@ -514,18 +509,18 @@
                     <l xml:id="lid_017v03">ai-2nen engel der in gahen pat # er hueb in soene von der stat # </l>
 
                     <l xml:id="lid_018r01">
-                        <anchor xml:id="ftn88"/> v-d sazzet in samfte an allen <anchor xml:id="ftn89"/>saden # bol gerbten vu<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">o</add></mod>er<anchor xml:id="ftn90"/> daz ga </l>
-                    <l xml:id="lid_018r02">dem # dad* engel chu<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">o</add></mod>negin<anchor xml:id="ftn91"/> # bas vnd pat sich lazzen in # im </l>
+                        <anchor xml:id="ftn88"/> v-d sazzet in samfte an allen <anchor xml:id="ftn89"/>saden # bol gerbten vu<mod ana="TR"><add ana="IN.IL.AV" place="above">o</add></mod>er<anchor xml:id="ftn90"/> daz ga </l>
+                    <l xml:id="lid_018r02">dem # dad* engel chu<mod ana="TR"><add ana="IN.IL.AV" place="above">o</add></mod>negin<anchor xml:id="ftn91"/> # bas vnd pat sich lazzen in # im </l>
                     <l xml:id="lid_018r03">bart vil gahes auf getan # mi-2t groezzen freuden in ver lan #<anchor xml:id="ftn92"/>
                     </l>
 
                     <l xml:id="lid_018v01">ain vreunt den si vil gern sach # von in paiden da gesach # ain </l>
-                    <l xml:id="lid_018v02"><mod ana="TR" instant="true"><del ana="DL.WR.ST">geren<unclear>|</unclear></del><anchor xml:id="ftn93"/>
-                        <add ana="IN.NM.IL.AV" place="above">g</add></mod><anchor xml:id="ftn94"/>ruezzen hart mi-2nnechleich # si freuten auch der mazze<anchor xml:id="ftn95"/>
+                    <l xml:id="lid_018v02"><mod ana="TR" instant="true"><del ana="DL.ST">geren<unclear>|</unclear></del><anchor xml:id="ftn93"/>
+                        <add ana="IN.IL.AV" place="above">g</add></mod><anchor xml:id="ftn94"/>ruezzen hart mi-2nnechleich # si freuten auch der mazze<anchor xml:id="ftn95"/>
                     </l>
                     <l xml:id="lid_018v03">sich # daz in solieb bas gesehen # daz si an ai-2nander sollten sehe- # </l>
 
-                    <l xml:id="lid_019r01">dem bart da chunt getan # allez daz <mod ana="TR"><add ana="IN.NM.MG.TP" place="inspace">da</add></mod><anchor xml:id="ftn96"/> solt ergan # al<mod ana="TR"><add ana="IN.LI" place="inspace">s</add></mod><anchor xml:id="ftn97"/> ier der </l>
+                    <l xml:id="lid_019r01">dem bart da chunt getan # allez daz <mod ana="TR"><add ana="IN.MG.TP" place="inspace">da</add></mod><anchor xml:id="ftn96"/> solt ergan # al<mod ana="TR"><add ana="IN.LI" place="inspace">s</add></mod><anchor xml:id="ftn97"/> ier der </l>
                     <l xml:id="lid_019r02">engel het vergehen # dar nach lie si in du sechen # den palm<anchor xml:id="ftn98"/>
                     </l>
                     <l xml:id="lid_019r03">vnd die beizen bat # si sprach dizze chlai-2nat hat # mi-2r mei-2n sun </l>
@@ -536,15 +531,15 @@
                     <l xml:id="lid_019v02">mei-2n hinuart sul gesechen # der palm hart zierleich bas # </l>
                     <l xml:id="lid_019v03">der stam noch gruener denne ai-2n gras # <mod ana="TR"><add ana="IN.IL.AV" place="above">o</add></mod><anchor xml:id="ftn100"/>der icht daz gelfe </l>
 
-                    <l xml:id="lid_020r01">gr<unclear>u</unclear><anchor xml:id="ftn101"/>ene <mod ana="TR" instant="true" type="reading_aid"><subst ana="RP.DM"><add ana="IN.NM.MG.TP" place="above">gruene</add></subst></mod><anchor xml:id="ftn102"/> hat # ich mai-2n sbenne auf gat # der moergen </l>
-                    <l xml:id="lid_020r02">stern voer tage fu<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">r</add></mod>e<anchor xml:id="ftn103"/> # da mag ich geleichen zue # daz obz vo- </l>
+                    <l xml:id="lid_020r01">gr<unclear>u</unclear><anchor xml:id="ftn101"/>ene <mod ana="TR" instant="true" type="reading_aid"><add ana="IN.MG.TP.IS" place="above">gruene</add></mod><anchor xml:id="ftn102"/> hat # ich mai-2n sbenne auf gat # der moergen </l>
+                    <l xml:id="lid_020r02">stern voer tage fu<mod ana="TR"><add ana="IN.IL.AV" place="above">r</add></mod>e<anchor xml:id="ftn103"/> # da mag ich geleichen zue # daz obz vo- </l>
                     <l xml:id="lid_020r03">dem glaste deu lauber an dem aste # bid* stiezzen den mensen </l>
                     <l xml:id="lid_020r04">sehen <anchor xml:id="ftn104"/>
                     </l>
 
                     <l xml:id="lid_020v01">so faste liecht ier prehen # si buerden vnd* in zbai-2n # i-2er </l>
                     <l xml:id="lid_020v02">di-2nges2 fleizzechleichen en ai-2n # si enbesten nieman voer </l>
-                    <l xml:id="lid_020v03">der tu<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">o</add></mod>er<anchor xml:id="ftn105"/> # <mod ana="TR"><del ana="DL.BL">d</del></mod><anchor xml:id="ftn106"/>idoch chomen ietbedernthalben da uuer # die zbelf </l>
+                    <l xml:id="lid_020v03">der tu<mod ana="TR"><add ana="IN.IL.AV" place="above">o</add></mod>er<anchor xml:id="ftn105"/> # <mod ana="TR"><del ana="DL.BL">d</del></mod><anchor xml:id="ftn106"/>idoch chomen ietbedernthalben da uuer # die zbelf </l>
 
                     <l xml:id="lid_021r01">noetgestallen # von den landen allen # da si baren zeset # als </l>
                     <l xml:id="lid_021r02">ain bi-2nt der durch ain venster bet # an chrachen und an </l>
@@ -556,13 +551,13 @@
                     <l xml:id="lid_021v02">der stunt # daz ier d*2haine- ber chunt # barume si beren </l>
                     <l xml:id="lid_021v03">chomen dar # si sprachen prueder paul% eruar # bar vme </l>
 
-                    <l xml:id="lid_022r01">bier sein gesamet hie # band daz ist i-2mer v-d bas a<mod ana="TR"><add ana="IN.NM.MG.TP" place="inspace">u</add></mod>ch<anchor xml:id="ftn108"/> ie # </l>
+                    <l xml:id="lid_022r01">bier sein gesamet hie # band daz ist i-2mer v-d bas a<mod ana="TR"><add ana="IN.MG.TP" place="inspace">u</add></mod>ch<anchor xml:id="ftn108"/> ie # </l>
                     <l xml:id="lid_022r02">daz deu iungisten chint dem vater aller liebist sint # nu </l>
                     <l xml:id="lid_022r03">eruar vns traut geselle # baz unser herre belle # des antbuert </l>
-                    <l xml:id="lid_022r04"><anchor xml:id="ftn109"/>in als<mod ana="TR"><subst ana="RP"><del ana="DL.BL">o#</del><add ana="IN.NM.IL.AV" place="above">us#</add></subst></mod><anchor xml:id="ftn110"/>
+                    <l xml:id="lid_022r04"><anchor xml:id="ftn109"/>in als<mod ana="TR"><subst ana="RP"><del ana="DL.BL">o#</del><add ana="IN.IL.AV" place="above">us#</add></subst></mod><anchor xml:id="ftn110"/>
                     </l>
 
-                    <l xml:id="lid_022v01">der neupor2n  <mod ana="TR"><metamark xml:id="MM_lid_022v01">&amp;</metamark><add ana="IN.MM.MG.TP" place="inspace"><metamark corresp="#MM_lid_022v01">&amp;</metamark> prueder#</add></mod><anchor xml:id="ftn111"/>
+                    <l xml:id="lid_022v01">der neupor2n  <mod ana="TR"><metamark xml:id="MM_lid_022v01">&amp;</metamark><add ana="IN.MP.TP" place="inspace"><metamark corresp="#MM_lid_022v01">&amp;</metamark> prueder#</add></mod><anchor xml:id="ftn111"/>
                          paulus2 #<anchor xml:id="ftn112"/> ier sult mi-2ch sei-2n durch got erlan # </l>
                     <l xml:id="lid_022v02">der mi-2n bider i-2n hab getan # oder leicht nicht getet # dem </l>
                     <l xml:id="lid_022v03">enpfelhet diseu pet # die herren baren i-got uro #daz sei-2n genad </l>
@@ -576,44 +571,44 @@
                     <l xml:id="lid_023v03">pfieng er # als der den andern gern sicht # si sprache- </l>
 
                     <l xml:id="lid_024r01">prueder baist du icht # barum bier hie gesamet sei-2n # ia bol </l>
-                    <l xml:id="lid_024r02">der engel chuni-2g<mod ana="TR"><add ana="IN.NM.IL.AV" place="inspace">e</add></mod>i-2n<anchor xml:id="ftn113"/> # sol vber den driten tage hin varen # der </l>
-                    <l xml:id="lid_024r03">pi-2ui-2lde sul bier <mod ana="TR" instant="true"><del ana="DL.WR.ST">pe<unclear>b/g</unclear>n</del></mod><anchor xml:id="ftn114"/> pebarn # also hat er uns enpoten # pei gabri </l>
+                    <l xml:id="lid_024r02">der engel chuni-2g<mod ana="TR"><add ana="IN.IL.AV" place="inspace">e</add></mod>i-2n<anchor xml:id="ftn113"/> # sol vber den driten tage hin varen # der </l>
+                    <l xml:id="lid_024r03">pi-2ui-2lde sul bier <mod ana="TR" instant="true"><del ana="DL.ST.IS">pe<unclear>b/g</unclear>n</del></mod><anchor xml:id="ftn114"/> pebarn # also hat er uns enpoten # pei gabri </l>
                     <l xml:id="lid_024r04">el sei-2ne- pote- #<anchor xml:id="ftn115"/>
                     </l>
 
-                    <l xml:id="lid_024v01">er u<mod ana="TR"><add ana="IN.NM.MG.TP" place="above">v</add></mod><anchor xml:id="ftn116"/>ert <mod ana="TR"><add ana="TF.CO.OW">s</add></mod><anchor xml:id="ftn117"/>eu anden stunden # da si unser urauen vunden # der </l>
+                    <l xml:id="lid_024v01">er u<mod ana="TR"><add ana="IN.MG.TP" place="above">v</add></mod><anchor xml:id="ftn116"/>ert <mod ana="TR"><add ana="TF.CO.OW">s</add></mod><anchor xml:id="ftn117"/>eu anden stunden # da si unser urauen vunden # der </l>
                     <l xml:id="lid_024v02">anfanch bart da suezze # die minnechleichen gruezze # die </l>
                     <l xml:id="lid_024v03">gi-2engen ze begsel vnder i-2n # ze solhen freuden da ist mein si-2n # </l>
 
-                    <l xml:id="lid_025r01">ze chranch daz ich die recht eruar # band ainez baiz ich <mod ana="TR"><del ana="DL.WR.ST"><unclear>v</unclear></del><metamark xml:id="MM_025r01">&amp;</metamark><anchor xml:id="ftn118"/></mod>
-                        <mod ana="TR"><add ana="IN.MM.MG.TP" place="above"><metamark corresp="MM_lid_025r01">&amp;</metamark>da</add></mod><anchor xml:id="ftn119"/>
+                    <l xml:id="lid_025r01">ze chranch daz ich die recht eruar # band ainez baiz ich <mod ana="TR"><del ana="DL.ST"><unclear>v</unclear></del><metamark xml:id="MM_025r01">&amp;</metamark><anchor xml:id="ftn118"/></mod>
+                        <mod ana="TR"><add ana="IN.MG.TP" place="above"><metamark corresp="MM_lid_025r01">&amp;</metamark>da</add></mod><anchor xml:id="ftn119"/>
                         
                     </l>
-                    <l xml:id="lid_025r02"><mod ana="TR" instant="true"><del ana="DL.BL"><unclear>bbau</unclear></del></mod><anchor xml:id="ftn120"/> bas gar # sbaz zeureuden gehoert # vnd nicht daz vreu </l>
+                    <l xml:id="lid_025r02"><mod ana="TR" instant="true"><del ana="DL.BL.IS"><unclear>bbau</unclear></del></mod><anchor xml:id="ftn120"/> bas gar # sbaz zeureuden gehoert # vnd nicht daz vreu </l>
                     <l xml:id="lid_025r03">de sto<mod ana="TR"><add ana="IN.IL.AV" place="inspace">e</add></mod>rt<anchor xml:id="ftn121"/> # dizze gesach in allen gahen # daz si mensleichen sahen </l>
 
                     <l xml:id="lid_025v01">stan miten under in # von hi-2mel v-ser trechtei-2n # mit </l>
-                    <l xml:id="lid_025v02">so<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">e</add></mod>nem<anchor xml:id="ftn122"/> gruez <mod ana="TR"><del ana="DL.WR.ST">vnder i-2n</del></mod><anchor xml:id="ftn123"/> des seit gebis2 # er sprach zu i-2n </l>
+                    <l xml:id="lid_025v02">so<mod ana="TR"><add ana="IN.IL.AV" place="above">e</add></mod>nem<anchor xml:id="ftn122"/> gruez <mod ana="TR"><del ana="DL.ST">vnder i-2n</del></mod><anchor xml:id="ftn123"/> des seit gebis2 # er sprach zu i-2n </l>
                     <l xml:id="lid_025v03">pax vobis2 # daz sprichet also ich ez versten chan # meinen </l>
 
                     <l xml:id="lid_026r01">frid sult ier han # daz bas hailiger gruez # ertet seu mani </l>
                     <l xml:id="lid_026r02">ger soergen puez # dannoch du er hie in erd bas # si danchten </l>
                     <l xml:id="lid_026r03">im als<mod ana="TR"><del ana="DL.BL">o</del></mod><anchor xml:id="ftn124"/> ich ez l<anchor xml:id="ftn125"/>as # gelobt geert seist d<anchor xml:id="ftn126"/>u herrgot # dein </l>
                     <l xml:id="lid_026r04">genad v-d </l>
-                    <l xml:id="lid_026r05">dein g<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">e</add></mod>pot<anchor xml:id="ftn127"/> #<anchor xml:id="ftn128"/>
+                    <l xml:id="lid_026r05">dein g<mod ana="TR"><add ana="IN.IL.AV" place="above">e</add></mod>pot<anchor xml:id="ftn127"/> #<anchor xml:id="ftn128"/>
                     </l>
 
                     <l xml:id="lid_026v01">dei-2n geparmung herre trehtei-2n # deu muez ob uns also </l>
-                    <l xml:id="lid_026v02">sei-2n # als bier di<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">r</add></mod>eh<anchor xml:id="ftn129"/> herre getrauet han # er sprach nu sult </l>
-                    <l xml:id="lid_026v03">ier eu lan # mei-2n mueter enpfolhen sei-2n # die drei tage peite<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">t</add></mod><anchor xml:id="ftn130"/>
+                    <l xml:id="lid_026v02">sei-2n # als bier di<mod ana="TR"><add ana="IN.IL.AV" place="above">r</add></mod>eh<anchor xml:id="ftn129"/> herre getrauet han # er sprach nu sult </l>
+                    <l xml:id="lid_026v03">ier eu lan # mei-2n mueter enpfolhen sei-2n # die drei tage peite<mod ana="TR"><add ana="IN.IL.AV" place="above">t</add></mod><anchor xml:id="ftn130"/>
                     </l>
 
                     <l xml:id="lid_027r01">mei-2n # so chum ich selbe nach ier # vnd ni-2m sei schoene </l>
                     <l xml:id="lid_027r02">zu mi-2r # als ich ier des2 suldich pi-2n # mi-2t der red sied er von </l>
-                    <l xml:id="lid_027r03">in ; die herre<mod ana="TR"><add ana="IN.NM.IL.AV" place="inspace">n</add></mod><anchor xml:id="ftn131"/> laisten sei-2n gepot # nu ersain in vnser herre got # </l>
+                    <l xml:id="lid_027r03">in ; die herre<mod ana="TR"><add ana="IN.IL.AV" place="inspace">n</add></mod><anchor xml:id="ftn131"/> laisten sei-2n gepot # nu ersain in vnser herre got # </l>
 
-                    <l xml:id="lid_027v01">andem driten tage # als er in geh<mod ana="TR"><del ana="DL.BL">a</del></mod>i<mod ana="TR"><add ana="IN.NM.MG.TP" place="inspace">e</add></mod>z<mod ana="TR"><del ana="DL">en</del></mod><anchor xml:id="ftn132"/> # vnser urauen er sich </l>
-                    <l xml:id="lid_027v02">peraiten hiez # er sprach mueter mein nu uar # fo<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">r</add></mod>eleichen<anchor xml:id="ftn133"/>
+                    <l xml:id="lid_027v01">andem driten tage # als er in geh<mod ana="TR"><del ana="DL.BL">a</del></mod>i<mod ana="TR"><add ana="IN.MG.TP" place="inspace">e</add></mod>z<mod ana="TR"><del ana="DL">en</del></mod><anchor xml:id="ftn132"/> # vnser urauen er sich </l>
+                    <l xml:id="lid_027v02">peraiten hiez # er sprach mueter mein nu uar # fo<mod ana="TR"><add ana="IN.IL.AV" place="above">r</add></mod>eleichen<anchor xml:id="ftn133"/>
                     </l>
                     <l xml:id="lid_027v03">und an angest gar # hin da dier ureud peraitet ist # von </l>
 
@@ -624,18 +619,18 @@
                     </l>
 
                     <l xml:id="lid_028v01">
-                        <anchor xml:id="ftn139"/> die himel zieren sol # der pflanc gezimet <mod ana="TR"><del ana="DL.BL">bol</del></mod><mod ana="TR"><add ana="IN.NM.MG.TP" place="above"><del ana="DL.BL">deinersoen</del></add></mod><anchor xml:id="ftn140"/>
+                        <anchor xml:id="ftn139"/> die himel zieren sol # der pflanc gezimet <mod ana="TR"><del ana="DL.BL">bol</del></mod><mod ana="TR"><add ana="IN.MG.TP" place="above"><del ana="DL.BL">deinersoen</del></add></mod><anchor xml:id="ftn140"/>
                         <anchor xml:id="ftn141"/> die-2ner sel bol # </l>
-                    <l xml:id="lid_028v02">der nicht pebollens dar in lat # vnd n<mod ana="TR"><add ana="IN.NM.IL.AV" place="inspace">i</add></mod>emen<anchor xml:id="ftn142"/> d<unclear>a</unclear><anchor xml:id="ftn143"/>n<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">n</add></mod><anchor xml:id="ftn144"/> den rech </l>
+                    <l xml:id="lid_028v02">der nicht pebollens dar in lat # vnd n<mod ana="TR"><add ana="IN.IL.AV" place="inspace">i</add></mod>emen<anchor xml:id="ftn142"/> d<unclear>a</unclear><anchor xml:id="ftn143"/>n<mod ana="TR"><add ana="IN.IL.AV" place="above">n</add></mod><anchor xml:id="ftn144"/> den rech </l>
                     <l xml:id="lid_028v03">ten ofen stat # vnser urau het an sich geleit die snebeizen </l>
 
-                    <l xml:id="lid_029r01">rechchlaid # daz ier der engel pracht # von ier pete si du gah<mod ana="TR"><del ana="DL.WR.EP">e</del></mod><anchor xml:id="ftn145"/>t # </l>
+                    <l xml:id="lid_029r01">rechchlaid # daz ier der engel pracht # von ier pete si du gah<mod ana="TR"><del ana="DL.EP">e</del></mod><anchor xml:id="ftn145"/>t # </l>
                     <l xml:id="lid_029r02">si viel enchreuzstal vuer in # si sprach herre uater sun ich pin # </l>
                     <l xml:id="lid_029r03"><mod ana="TR">deu<del ana="TF.CO.RD">in</del></mod><anchor xml:id="ftn146"/> mueter dein deu dem hantgetat # des dei-2n genad <mod ana="TR"><del ana="DL.BL">pegunen #</del></mod><anchor xml:id="ftn147"/> pe </l>
                     <l xml:id="lid_029r04">gunen hat #<anchor xml:id="ftn148"/>
                     </l>
 
-                    <l xml:id="lid_029v01">daz eruulle herre anm<mod ana="TR"><add ana="IN.NM.MG.TP" place="above">i-2</add></mod>er<anchor xml:id="ftn149"/> # mei-2n sel e-pfilh ich dier # saf ier solheu </l>
+                    <l xml:id="lid_029v01">daz eruulle herre anm<mod ana="TR"><add ana="IN.MG.TP" place="above">i-2</add></mod>er<anchor xml:id="ftn149"/> # mei-2n sel e-pfilh ich dier # saf ier solheu </l>
                     <l xml:id="lid_029v02">pflege # daz ier icht grauleiches andem bege # ersein den si varen </l>
                     <l xml:id="lid_029v03">sol # er sprach mueter du baist vil bol # daz ich andem chreuz er </l>
 
@@ -645,12 +640,12 @@
                     <l xml:id="lid_030r04">erchant #<anchor xml:id="ftn150"/>
                     </l>
 
-                    <l xml:id="lid_030v01">in die helle ich inpant # sbaz nu der arm gaist <mod ana="TR"><subst ana="RP"><del ana="DL.BL">sint #</del><add ana="IN.NM.MG.TP" place="inspace">vert #</add></subst></mod><anchor xml:id="ftn151"/> die sint chreste </l>
+                    <l xml:id="lid_030v01">in die helle ich inpant # sbaz nu der arm gaist <mod ana="TR"><subst ana="RP"><del ana="DL.BL">sint #</del><add ana="IN.MG.TP" place="inspace">vert #</add></subst></mod><anchor xml:id="ftn151"/> die sint chreste </l>
                     <l xml:id="lid_030v02">so gar pehert # vnd voer meinem gebalt taup # als von dem </l>
                     <l xml:id="lid_030v03">bint ain staup # Nu enruech laz seu dich sechen # dier mach von </l>
                     <!-- BIS HIERHER KOLLATIONIERT -->
 
-                    <l xml:id="lid_031r01">in ni-2cht gese<mod ana="TR"><add ana="IN.NM.MG.TP" place="inspace">c</add></mod>hen<anchor xml:id="ftn152"/> # ich enpfilch dei-ne sel # der engel fuersten </l>
+                    <l xml:id="lid_031r01">in ni-2cht gese<mod ana="TR"><add ana="IN.MG.TP" place="inspace">c</add></mod>hen<anchor xml:id="ftn152"/> # ich enpfilch dei-ne sel # der engel fuersten </l>
                     <l xml:id="lid_031r02">michahel # der pelaitet sei mi-2t den engelischen sarn # so muez </l>
                     <l xml:id="lid_031r03">si mit gemache uaren # stand auf und ginge an dein pete bider # </l>
 
@@ -658,7 +653,7 @@
 
                     <l xml:id="lid_032r01">traut gemehel leg dich nider # ich bil dein soenen da mi-2t # du stie </l>
                     <l xml:id="lid_032r02">rbest ni-2cht nac mensen sit # der toet getuet dier nimer be </l>
-                    <l xml:id="lid_032r03">nach toedes flaisleicher # e<mod ana="TR" type="reading_aid"><add ana="IN.NM.IL.AV">^</add></mod><anchor xml:id="ftn153"/> # vnser fraue zu ier petete gie # den ga </l>
+                    <l xml:id="lid_032r03">nach toedes flaisleicher # e<mod ana="TR" type="reading_aid"><add ana="IN.IL.AV">^</add></mod><anchor xml:id="ftn153"/> # vnser fraue zu ier petete gie # den ga </l>
                     <l xml:id="lid_032r04">ist si von de- </l>
                     <l xml:id="lid_032r05">leibe lie<anchor xml:id="ftn154"/>
                     </l>
@@ -678,13 +673,13 @@
                     <l xml:id="lid_033v02">auf ain pfelle teuer # <mod ana="TR"><del ana="DL">auch</del></mod><anchor xml:id="ftn160"/> auch enlach deu geheuer # nicht </l>
                     <l xml:id="lid_033v03">dem toeten geleich # als pei disen zeiten leich # gerebet vnd </l>
 
-                    <l xml:id="lid_034r01">gere<mod ana="TR"><add ana="IN.NM.MG.TP" place="inspace">k</add></mod>chet<anchor xml:id="ftn161"/> # <mod ana="TR"><del ana="DL.WR.ST">deu leucht vnd suezze smechet #</del></mod><anchor xml:id="ftn162"/> deu leich </l>
+                    <l xml:id="lid_034r01">gere<mod ana="TR"><add ana="IN.MG.TP" place="inspace">k</add></mod>chet<anchor xml:id="ftn161"/> # <mod ana="TR"><del ana="DL.ST">deu leucht vnd suezze smechet #</del></mod><anchor xml:id="ftn162"/> deu leich </l>
                     <l xml:id="lid_034r02">vn suez smechet # da uerhabent leut ier nasen <mod ana="TR"><del ana="DL.BL">p</del></mod><anchor xml:id="ftn163"/>eu-2ch # </l>
                     <l xml:id="lid_034r03">si enzundent mieren da pei <mod ana="TR"><del ana="DL.BL">#</del></mod><anchor xml:id="ftn164"/> vnd machent rauch # </l>
 
                     <l xml:id="lid_034v01">daz dier suezze smach dem # sein piter smechen penem # des2 </l>
                     <l xml:id="lid_034v02">bas2 allez vil vnoet hie # bant von ier rainem leibe gie # der </l>
-                    <l xml:id="lid_034v03">aller suezziste ba<!-- Wie modellieren: visuelle oder chronologische Reihenfolge?? --><mod ana="TR"><del ana="DL.BL">z</del><add ana="IN.NM.IL.AV" place="inspace">s</add></mod><anchor xml:id="ftn165"/> # er ber imer bol ungaz # vnd voer aller noet </l>
+                    <l xml:id="lid_034v03">aller suezziste ba<!-- Wie modellieren: visuelle oder chronologische Reihenfolge?? --><mod ana="TR"><add ana="IN.IL.AV" place="inspace">s</add><del ana="DL">z</del></mod><anchor xml:id="ftn165"/> # er ber imer bol ungaz # vnd voer aller noet </l>
 
                     <l xml:id="lid_035r01">genesen # der i-solhem smach solde besen # ier bas2 auch ni-2cht </l>
                     <l xml:id="lid_035r02">entbichen # ier varbe noch erplichen # ier nas ier bange ier </l>
@@ -694,11 +689,11 @@
 
                     <l xml:id="lid_035v01">bunni-2chleich vnd vol geuar # an ier sai-2n ni-2nder hai-2n tail # toeten </l>
                     <l xml:id="lid_035v02">pilde noch toeten mail # H<anchor xml:id="ftn168"/>ie hueb sich ai-2n vil suezzer streit # </l>
-                    <l xml:id="lid_035v03">vnder den herren an neit # belher den palm <!-- Wie modellieren? Visuell oder ling. Reihenfolge oder chronologisch? -->tu<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">ro</add></mod>ege<anchor xml:id="ftn169"/> # du rie </l>
+                    <l xml:id="lid_035v03">vnder den herren an neit # belher den palm t<!-- Wie modellieren? Visuell oder ling. Reihenfolge oder chronologisch? --><mod ana="TR"><add ana="IN.IL.AV" place="above">r</add></mod>u<mod ana="TR"><add ana="IN.IL.AV" place="above">o</add></mod>ege<anchor xml:id="ftn169"/> # du rie </l>
 
                     <l xml:id="lid_036r01">ten ier genuege # daz ez paulus2 tete # des2 berte sich d* stete </l>
                     <l xml:id="lid_036r02">er sprach laider ich enmage- # voer mei-2nen schulden nicht </l>
-                    <l xml:id="lid_036r03">getragen # des selben sand peter ia<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">c</add></mod>h<anchor xml:id="ftn170"/> # zu sand iohannen er du </l>
+                    <l xml:id="lid_036r03">getragen # des selben sand peter ia<mod ana="TR"><add ana="IN.IL.AV" place="above">c</add></mod>h<anchor xml:id="ftn170"/> # zu sand iohannen er du </l>
                     <l xml:id="lid_036r04">sprach #<anchor xml:id="ftn171"/>
                     </l>
 
@@ -708,9 +703,9 @@
 
                     <l xml:id="lid_037r01">dier # seine mueter maget und dich ier vnd da bier alle </l>
                     <l xml:id="lid_037r02">gesazzen # mi-2t im zetische vnd azzen # du er den antlaz pegie # </l>
-                    <l xml:id="lid_037r03">dich ainen <mod ana="TR"><add ana="IN.NM.IL.AV" place="inspace">er</add></mod><anchor xml:id="ftn174"/> vmbeui-2e # vnd <mod ana="TR"><del ana="DL.BL"><unclear>e</unclear>n</del></mod><anchor xml:id="ftn175"/> dru<mod ana="TR"><add ana="IN.IL.AV" place="above">k</add></mod>chet<anchor xml:id="ftn176"/> dich an die pruste sein # </l>
+                    <l xml:id="lid_037r03">dich ainen <mod ana="TR"><add ana="IN.IL.AV" place="inspace">er</add></mod><anchor xml:id="ftn174"/> vmbeui-2e # vnd <mod ana="TR"><del ana="DL.BL"><unclear>e</unclear>n</del></mod><anchor xml:id="ftn175"/> dru<mod ana="TR"><add ana="IN.IL.AV" place="above">k</add></mod>chet<anchor xml:id="ftn176"/> dich an die pruste sein # </l>
 
-                    <l xml:id="lid_037v01">da bart der grozzen liebe sei-2n # di<mod ana="TR"><add ana="IN.NM.MG.TP" place="above">e</add></mod>er<anchor xml:id="ftn177"/> dier truege # vnd i-2mer </l>
+                    <l xml:id="lid_037v01">da bart der grozzen liebe sei-2n # di<mod ana="TR"><add ana="IN.MG.TP" place="above">e</add></mod>er<anchor xml:id="ftn177"/> dier truege # vnd i-2mer </l>
                     <l xml:id="lid_037v02">trait # da trunche du die beishai-2t # von seines2 h*zen pr </l>
                     <l xml:id="lid_037v03">unne # des2 er ni-2emen gunne # zebi-2zzen daz erzaigt er </l>
 
@@ -720,17 +715,17 @@
                     <l xml:id="lid_038r04">ich #<anchor xml:id="ftn178"/>
                     </l>
 
-                    <l xml:id="lid_038v01">vnd dar zue unser <!-- Wie modellieren: visuell oder linguistisch? -->g<mod ana="TR"><add ana="IN.NM.MG.TP" place="inspace">se</add></mod>ellen<anchor xml:id="ftn179"/> # zben die bier da bellen # die tragen </l>
+                    <l xml:id="lid_038v01">vnd dar zue unser <!-- Wie modellieren: visuell oder linguistisch? -->g<mod ana="TR"><add ana="IN.MG.TP" place="inspace">se</add></mod>ellen<anchor xml:id="ftn179"/> # zben die bier da bellen # die tragen </l>
                     <l xml:id="lid_038v02">als man sol # vnser vier die par bol # sbaz unser dan mer sei # </l>
                     <l xml:id="lid_038v03">die gen vns2 zuchtichleichen pei # vnd tuen als vns2 enpfo </l>
 
                     <l xml:id="lid_039r01">lhen hat # der dhain guet vnuergolten lat # d* streit het ende </l>
                     <l xml:id="lid_039r02">vnder in # si hueben auf vnd truegen hin # die par vnd sunge- </l>
-                    <l xml:id="lid_039r03">so # in exitu israhel de egpto # der salm ist m<mod ana="TR"><add ana="IN.NM.IL.AV" place="inspace">i</add></mod>er<anchor xml:id="ftn180"/> zesbere # v-d lenget </l>
+                    <l xml:id="lid_039r03">so # in exitu israhel de egpto # der salm ist m<mod ana="TR"><add ana="IN.IL.AV" place="inspace">i</add></mod>er<anchor xml:id="ftn180"/> zesbere # v-d lenget </l>
                     <l xml:id="lid_039r04"><anchor xml:id="ftn181"/>auch daz me </l>
                     <l xml:id="lid_039r05"><anchor xml:id="ftn182"/>re </l>
 
-                    <l xml:id="lid_039v01">solte bier den endleichen # vnd seinen sin bol <mod ana="TR"><del ana="DL.WR.ST">endleic</del></mod><anchor xml:id="ftn183"/> erchen # doch </l>
+                    <l xml:id="lid_039v01">solte bier den endleichen # vnd seinen sin bol <mod ana="TR"><del ana="DL.ST">endleic</del></mod><anchor xml:id="ftn183"/> erchen # doch </l>
                     <l xml:id="lid_039v02">geleichet er uns2 die uart # daz beiln israhel bart # erlediget von </l>
                     <l xml:id="lid_039v03">egipten land # vnd deuselbe gottes2 hant # niemen so lieben uber </l>
 
@@ -743,46 +738,46 @@
                     </l>
 
                     <l xml:id="lid_040v01">si pegunden hohen ier gesanch # der engel sti-2m dami-2t chlanch # </l>
-                    <l xml:id="lid_040v02">in manegern sue<mod ana="TR"><add ana="IN.NM.IL.AV" place="inspace">z</add></mod>m<anchor xml:id="ftn186"/> doene # du sachen si ain chroene # ob der par </l>
+                    <l xml:id="lid_040v02">in manegern sue<mod ana="TR"><add ana="IN.IL.AV" place="inspace">z</add></mod>m<anchor xml:id="ftn186"/> doene # du sachen si ain chroene # ob der par </l>
                     <l xml:id="lid_040v03">deu bas vil chlar # die geleichet uns2 daz puech vuer bar # </l>
 
                     <l xml:id="lid_041r01">dem raiz der um den man get # sben er indem vollem sein </l>
                     <l xml:id="lid_041r02">stet # chroen aller tugend # deu deu chroene ind* i-2ugend<anchor xml:id="ftn187"/> # mit </l>
-                    <l xml:id="lid_041r03">cheus2 <mod ana="TR"><add ana="IN.NMIL.AV" place="inspace">v-d</add></mod><anchor xml:id="ftn188"/>aller selichai-2t # mit zuchten truech vnd immer trait # </l>
+                    <l xml:id="lid_041r03">cheus2 <mod ana="TR"><add ana="IN.IL.AV" place="inspace">v-d</add></mod><anchor xml:id="ftn188"/>aller selichai-2t # mit zuchten truech vnd immer trait # </l>
 
-                    <l xml:id="lid_041v01">deu chro<mod ana="TR"><add ana="IN.NM.MG.TP" place="above">e</add></mod>net<anchor xml:id="ftn189"/> diseu chroen hie # mit ai-2ner chroen daz noch ni-2e # </l>
+                    <l xml:id="lid_041v01">deu chro<mod ana="TR"><add ana="IN.MG.TP" place="above">e</add></mod>net<anchor xml:id="ftn189"/> diseu chroen hie # mit ai-2ner chroen daz noch ni-2e # </l>
                     <l xml:id="lid_041v02">dhaines2 berchmannes hant # an chunst solhez berch vand # mit </l>
-                    <l xml:id="lid_041v03">der chroene gechro<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">e</add></mod>net<anchor xml:id="ftn190"/> # vber alle schoen geso<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">e</add></mod><anchor xml:id="ftn191"/>net # hat vater </l>
+                    <l xml:id="lid_041v03">der chroene gechro<mod ana="TR"><add ana="IN.IL.AV" place="above">e</add></mod>net<anchor xml:id="ftn190"/> # vber alle schoen geso<mod ana="TR"><add ana="IN.IL.AV" place="above">e</add></mod><anchor xml:id="ftn191"/>net # hat vater </l>
 
                     <l xml:id="lid_042r01">sun vnd traut # seine tahter muet* vnd praut # herre sepfer </l>
-                    <l xml:id="lid_042r02">vnd got # deu die milben noch der rot # saben noch alter ersleizz<!-- Wie modellieren: visuell oder linguistisch? --><mod ana="TR"><add ana="IN.NM.IL.AV" place="inspace">t</add></mod>e#<anchor xml:id="ftn192"/>
+                    <l xml:id="lid_042r02">vnd got # deu die milben noch der rot # saben noch alter ersleizz<!-- Wie modellieren: visuell oder linguistisch? --><mod ana="TR"><add ana="IN.IL.AV" place="inspace">t</add></mod>e#<anchor xml:id="ftn192"/>
                     </l>
                     <l xml:id="lid_042r03">ier schein anende gleizzet # an dier chroen deu hie ersain # </l>
 
                     <l xml:id="lid_042v01">da bas2 golt noch edel gestai-2n # pfelle noch seide # noch dhain gesmeide # </l>
                     <l xml:id="lid_042v02">cheten noch trangen # si bas an nichteu gehangen # obder par si </l>
-                    <l xml:id="lid_042v03">si sbebte # recht sam <mod ana="TR"><metamark xml:id="MM_lid_042v03">|</metamark><add ana="IN.MM.IL.AV" place="inspace">ob</add></mod><anchor xml:id="ftn193"/> si lebte # daz baren englise sar # die prachte- </l>
+                    <l xml:id="lid_042v03">si sbebte # recht sam <mod ana="TR"><add ana="IN.IL.AV" place="inspace">ob</add><metamark xml:id="MM_lid_042v03">|</metamark></mod><anchor xml:id="ftn193"/> si lebte # daz baren englise sar # die prachte- </l>
 
                     <l xml:id="lid_043r01">liecht von himel dar # damit peleuchten sie # vnser frauen </l>
-                    <l xml:id="lid_043r02">auf der erden h<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">i</add></mod>e<anchor xml:id="ftn194"/> # daz den hailigen ebichleiche # leuchtet indem </l>
+                    <l xml:id="lid_043r02">auf der erden h<mod ana="TR"><add ana="IN.IL.AV" place="above">i</add></mod>e<anchor xml:id="ftn194"/> # daz den hailigen ebichleiche # leuchtet indem </l>
                     <l xml:id="lid_043r03">himelreiche # daz ist daz ebige liecht # des vertailte seu unser herre </l>
                     <l xml:id="lid_043r04">ni-2cht #<anchor xml:id="ftn195"/>
                     </l>
 
                     <l xml:id="lid_043v01">Ier bech gie recte vuer die stat # ze ierusalem gegen iosapfat # </l>
-                    <l xml:id="lid_043v02">da man sei solte pegraben # hie bart ai-2n michel no<mod ana="TR"><add ana="IN.NMIL.AV" place="inspace">e</add></mod>t<anchor xml:id="ftn196"/> erhaben # </l>
-                    <l xml:id="lid_043v03">du dier c<mod ana="TR"><add ana="TF.RT">h</add></mod>un<mod ana="TR"><add ana="IN.NM.IL.AV" place="inspace">n</add></mod>ichleiche<anchor xml:id="ftn197"/> sal # dort vber alle die stat erhal # von </l>
+                    <l xml:id="lid_043v02">da man sei solte pegraben # hie bart ai-2n michel no<mod ana="TR"><add ana="IN.IL.AV" place="inspace">e</add></mod>t<anchor xml:id="ftn196"/> erhaben # </l>
+                    <l xml:id="lid_043v03">du dier c<mod ana="TR"><add ana="TF.RT">h</add></mod>un<mod ana="TR"><add ana="IN.IL.AV" place="inspace">n</add></mod>ichleiche<anchor xml:id="ftn197"/> sal # dort vber alle die stat erhal # von </l>
 
                     <l xml:id="lid_044r01">engeln vn auch von leuten # ia herre baz sol dizze pedeuten # </l>
                     <l xml:id="lid_044r02">sprachen die i-2uden oder baz ist daz # diz sint sueze cantica # </l>
-                    <l xml:id="lid_044r03">der hab bier <mod ana="TR"><subst ana="RP"><del ana="DL.WR.ST">be</del><anchor xml:id="ftn198"/>
-                        <add ana="IN.MM.IL.AV" place="above">vil</add></subst><metamark xml:id="MM_lid_044r03">|</metamark></mod><anchor xml:id="ftn199"/> luzzel e vernom # nu sait man in da ber chome- # </l>
+                    <l xml:id="lid_044r03">der hab bier <mod ana="TR"><del ana="DL.ST">be</del><anchor xml:id="ftn198"/>
+                            <add ana="IN.IL.AV" place="above">vil</add><metamark xml:id="MM_lid_044r03">|</metamark></mod><anchor xml:id="ftn199"/> luzzel e vernom # nu sait man in da ber chome- # </l>
 
-                    <l xml:id="lid_044v01">iesus2 i-2unger baz ber<mod ana="TR"><add ana="IN.NM.MG.TP" place="inspace">f</add></mod>uent<anchor xml:id="ftn200"/> die # mari-2a<anchor xml:id="ftn201"/> deu ist toet die bellent </l>
+                    <l xml:id="lid_044v01">iesus2 i-2unger baz ber<mod ana="TR"><add ana="IN.MG.TP" place="inspace">f</add></mod>uent<anchor xml:id="ftn200"/> die # mari-2a<anchor xml:id="ftn201"/> deu ist toet die bellent </l>
                     <l xml:id="lid_044v02">si # mit groezzen eren pestaten # des2 sol in ni-2emen gestate- # </l>
                     <l xml:id="lid_044v03">sprachen die teuristen vnder in # man sol seu geuerti-2gen </l>
 
-                    <l xml:id="lid_045r01">also hi-2n # daz seu i-2mer gedenchen mu<mod ana="TR"><add ana="IN.NM.MG.TP" place="above">e</add></mod>gen<anchor xml:id="ftn202"/> # vnd ier etsleichen </l>
+                    <l xml:id="lid_045r01">also hi-2n # daz seu i-2mer gedenchen mu<mod ana="TR"><add ana="IN.MG.TP" place="above">e</add></mod>gen<anchor xml:id="ftn202"/> # vnd ier etsleichen </l>
                     <l xml:id="lid_045r02">legen # dar da er des2 tages liecht # i-2n ai-2nem iare ni-2cht ensiecht # </l>
                     <l xml:id="lid_045r03">vnd die par prechen i-2n ai-2n hoer nu bol dan sus2 hueb sich </l>
                     <l xml:id="lid_045r04">voer<anchor xml:id="ftn203"/>
@@ -794,25 +789,25 @@
 
                     <l xml:id="lid_046r01">sei haben gestoezen nider # des habten sich die herren bider # </l>
                     <l xml:id="lid_046r02">band seu uil ringe bagch # dier vngeperde der er pflach # er </l>
-                    <l xml:id="lid_046r03">het ai-2n vngeheu<mod ana="TR"><add ana="IN.NM.IL.AV" place="inspace">e</add></mod>rz<anchor xml:id="ftn206"/> leben # nu pegund er and* par chleben # alsam d* </l>
+                    <l xml:id="lid_046r03">het ai-2n vngeheu<mod ana="TR"><add ana="IN.IL.AV" place="inspace">e</add></mod>rz<anchor xml:id="ftn206"/> leben # nu pegund er and* par chleben # alsam d* </l>
                     <l xml:id="lid_046r04">vogel ande-<anchor xml:id="ftn207"/>
                     </l>
                     <l xml:id="lid_046r05">chloben #<anchor xml:id="ftn208"/>
                     </l>
 
-                    <l xml:id="lid_046v01">vnd<anchor xml:id="ftn209"/> voer vergicht starche toben # seinem leibe <mod ana="TR"><metamark xml:id="MM_lid_046v01">&amp;</metamark><add ana="IN.MM.IL.AV" place="above"><metamark corresp="#MM_lid_046v01">&amp;</metamark> nie so be</add></mod><anchor xml:id="ftn210"/>
-                         gesach # band </l>
+                    <l xml:id="lid_046v01">vnd<anchor xml:id="ftn209"/> voer vergicht starche toben # seinem leibe <mod ana="TR"><add ana="IN.IL.AV" place="above"><metamark corresp="#MM_lid_046v01">&amp;</metamark> nie so be</add></mod><anchor xml:id="ftn210"/>
+                        <metamark xml:id="MM_lid_046v01">&amp;</metamark> gesach # band </l>
                     <l xml:id="lid_046v02">ez in engestleichen prach # deu noet bas doch sei-2n ai-2nes2 ni-2cht # </l>
                     <l xml:id="lid_046v03">si muesten mi-2t im haben pflicht # die mit im dar baren chome- # </l>
 
-                    <l xml:id="lid_047r01">si tailten saden vn u<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">F</add></mod><anchor xml:id="ftn211"/>rumen # geleiche sbaz er da ere geban # </l>
+                    <l xml:id="lid_047r01">si tailten saden vn u<mod ana="TR"><add ana="IN.IL.AV" place="above">F</add></mod><anchor xml:id="ftn211"/>rumen # geleiche sbaz er da ere geban # </l>
                     <l xml:id="lid_047r02">maniger von vergicht ban # man sach da vil der chrumpen </l>
-                    <l xml:id="lid_047r03">ligen # vnd vil den liecht bas verzigen # seu prach<mod ana="TR"><del ana="DL.BL">t</del></mod><anchor xml:id="ftn212"/> deu vngenanteu </l>
+                    <l xml:id="lid_047r03">ligen # vnd vil den liecht bas verzigen # seu prach<mod ana="TR"><del ana="DL.WS">t</del></mod><anchor xml:id="ftn212"/> deu vngenanteu </l>
                     <l xml:id="lid_047r04">sucht<anchor xml:id="ftn213"/>
                     </l>
 
-                    <l xml:id="lid_047v01">harte u<mod ana="TR"><add ana="IN.NM.MG.TP" place="above">i</add></mod>l<anchor xml:id="ftn214"/> mi-2t vngenucht # mit siechen lag daz velt pestret<mod ana="TR"><add ana="IN.NM.MG.TP" place="above">u</add></mod><anchor xml:id="ftn215"/> # </l>
-                    <l xml:id="lid_047v02">sus2 bart <mod ana="TR"><del ana="DL.BL">bart</del></mod><anchor xml:id="ftn216"/> getroestet vnd geureut # sbaz leute peid* par </l>
+                    <l xml:id="lid_047v01">harte u<mod ana="TR"><add ana="IN.MG.TP" place="above">i</add></mod>l<anchor xml:id="ftn214"/> mi-2t vngenucht # mit siechen lag daz velt pestret<mod ana="TR"><add ana="IN.MG.TP" place="above">u</add></mod><anchor xml:id="ftn215"/> # </l>
+                    <l xml:id="lid_047v02">sus2 bart <mod ana="TR"><del ana="DL.WS">bart</del></mod><anchor xml:id="ftn216"/> getroestet vnd geureut # sbaz leute peid* par </l>
                     <l xml:id="lid_047v03">gi-2e # noch stuent # d* pisolf pei-2 der par allez hie # vnz daz der arme </l>
 
                     <l xml:id="lid_048r01">des2 enpfand # daz dbeder sein hant # mocht erledigen von dan # </l>
@@ -823,43 +818,43 @@
 
                     <l xml:id="lid_048v01">pfla vnd zbene man # die dich mit salle rieften an # du berest iesus2 </l>
                     <l xml:id="lid_048v02">vnder tan # du suef ich daz man dich lie gan # hilfe mier mit dem </l>
-                    <l xml:id="lid_048v03">leibe hi-2n # Daz tet ich gern <!-- Modellierung? visuell vs. chronologisch --><mod ana="TR"><metamark xml:id="MM_lid_048v03">&amp;</metamark><add ana="IN.MM.IL.AV" place="inspace"><metamark corresp="#MM_lid_048v03">&amp;</metamark> # boldest du</add></mod><anchor xml:id="ftn219"/>
-                         an in # gelauben den ier da ui-2enget # </l>
+                    <l xml:id="lid_048v03">leibe hi-2n # Daz tet ich gern <!-- Modellierung? visuell vs. chronologisch --><mod ana="TR"><add ana="IN.IL.AV" place="inspace"><metamark corresp="#MM_lid_048v03">&amp;</metamark> # boldest du</add></mod><anchor xml:id="ftn219"/>
+                        <metamark xml:id="MM_lid_048v03">&amp;</metamark> an in # gelauben den ier da ui-2enget # </l>
 
                     <l xml:id="lid_049r01">vnd an suld erhienget # den diseu fraue maget gepar # her ich ge </l>
                     <l xml:id="lid_049r02">laub ez gern gar # band daz ez uns nicht helfen sol # bier bizzen </l>
                     <l xml:id="lid_049r03">alle bol # daz man in harte ui-2l geslueg # vnd pilat% die hent dbueg # </l>
 
-                    <l xml:id="lid_049v01">da en zoe heh er sei-2nes2 toedes2 sich # bier rieffe auch alle gele<mod ana="TR"><add ana="IN.NM.MG.TP" place="above">i</add></mod>h<anchor xml:id="ftn221"/> # </l>
-                    <l xml:id="lid_049v02">gesech uns2 vnd unsern chinden # daz bier laider nu bol vind<mod ana="TR"><add ana="IN.NM.IL.AV" place="inspace">e</add></mod>n<anchor xml:id="ftn222"/> # </l>
+                    <l xml:id="lid_049v01">da en zoe heh er sei-2nes2 toedes2 sich # bier rieffe auch alle gele<mod ana="TR"><add ana="IN.MG.TP" place="above">i</add></mod>h<anchor xml:id="ftn221"/> # </l>
+                    <l xml:id="lid_049v02">gesech uns2 vnd unsern chinden # daz bier laider nu bol vind<mod ana="TR"><add ana="IN.IL.AV" place="inspace">e</add></mod>n<anchor xml:id="ftn222"/> # </l>
                     <l xml:id="lid_049v03">bier haben vns2 selb so verfluechet # daz unser dhain selde geruechet # </l>
 
                     <l xml:id="lid_050r01">bie mochte sein imer berden rat # d* im selb vertailet hat # du spr </l>
                     <l xml:id="lid_050r02">ach d* hailige man # der fluech erbet ni-2emen an # nuer d* stete dar </l>
-                    <l xml:id="lid_050r03">an stat # sbelher sich taufen lat # v-d erchen<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">n</add></mod><anchor xml:id="ftn223"/>et got nach vnser e # dem </l>
+                    <l xml:id="lid_050r03">an stat # sbelher sich taufen lat # v-d erchen<mod ana="TR"><add ana="IN.IL.AV" place="above">n</add></mod><anchor xml:id="ftn223"/>et got nach vnser e # dem </l>
 
-                    <l xml:id="lid_050v01">sadent se<mod ana="TR"><add ana="IN.NM.MG.TP" place="inspace">i</add></mod>n<anchor xml:id="ftn224"/> erbsunte ni-2emere # genad herre ich pin perai-2t # ich ge </l>
+                    <l xml:id="lid_050v01">sadent se<mod ana="TR"><add ana="IN.MG.TP" place="inspace">i</add></mod>n<anchor xml:id="ftn224"/> erbsunte ni-2emere # genad herre ich pin perai-2t # ich ge </l>
                     <l xml:id="lid_050v02">laub bol die christenhai-2t # d* mi-2er sein hulfe ich taufte mich # </l>
                     <l xml:id="lid_050v03">mai-2nest du ez also daz tuen ich # ia mit recte- treuen # ez muez </l>
 
                     <l xml:id="lid_051r01">mich imer reuen # daz ich ez solange han verlan # deu reue sol di-2ch </l>
-                    <l xml:id="lid_051r02">bol veruachen # sprach sande peter auer do # seid ich <mod ana="TR"><metamark xml:id="MM_lid_051r02">&amp;</metamark><add ana="IN.MM.IL.AV" place="inspace"><metamark corresp="#MM_lid_051r02">&amp;</metamark> dich</add></mod><anchor xml:id="ftn225"/>
-                         prueder also # in </l>
-                    <l xml:id="lid_051r03">gueten reuen vi-2nde # deineu pant ich dier <mod ana="TR"><subst ana="RP"><del ana="DM">e</del><add ana="IN.NM.IL.AV" place="inspace">e</add></subst><anchor xml:id="ftn226"/></mod>npi-2nde # da mit du ge </l>
+                    <l xml:id="lid_051r02">bol veruachen # sprach sande peter auer do # seid ich <mod ana="TR"><add ana="IN.IL.AV" place="inspace"><metamark corresp="#MM_lid_051r02">&amp;</metamark> dich</add></mod><anchor xml:id="ftn225"/>
+                        <metamark xml:id="MM_lid_051r02">&amp;</metamark> prueder also # in </l>
+                    <l xml:id="lid_051r03">gueten reuen vi-2nde # deineu pant ich dier <!-- Modell? unclear? --><mod ana="TR"><del ana="DM">e</del><add ana="IN.IL.AV" place="inspace">e</add><anchor xml:id="ftn226"/></mod>npi-2nde # da mit du ge </l>
                     <l xml:id="lid_051r04">punten bere #<anchor xml:id="ftn227"/>
                     </l>
 
                     <l xml:id="lid_051v01">nu bis2 aller deiner sbere # ledich vnd bol gesunt # und ge<anchor xml:id="ftn228"/> enbech </l>
                     <l xml:id="lid_051v02">an dier stunt # hin uuer da iohannes2 gat # den palm den er da </l>
-                    <l xml:id="lid_051v03">hat # den <mod ana="TR"><add ana="IN.NM.IL.AV" place="inspace">er</add></mod><anchor xml:id="ftn229"/> uoer der par trai-2t # den ni-2m vnd pueze disen ier lai-2t # </l>
+                    <l xml:id="lid_051v03">hat # den <mod ana="TR"><add ana="IN.IL.AV" place="inspace">er</add></mod><anchor xml:id="ftn229"/> uoer der par trai-2t # den ni-2m vnd pueze disen ier lai-2t # </l>
 
                     <l xml:id="lid_052r01">die gelauben an got # vnd gern gehalten sein gepot # die ruere da </l>
-                    <l xml:id="lid_052r02">mit v-d sein genesen # die dier auer <mod ana="TR"><del ana="DL.BL">bidht</del></mod><anchor xml:id="ftn230"/> bide<mod ana="TR"><del ana="DL.BL">t</del><add ana="IN.NM.IL.AV" place="above">r</add></mod><anchor xml:id="ftn231"/> pruchich besen # </l>
+                    <l xml:id="lid_052r02">mit v-d sein genesen # die dier auer <mod ana="TR"><del ana="DL.BL">bidht</del></mod><anchor xml:id="ftn230"/> bide<mod ana="TR"><del ana="DL.BL">t</del><add ana="IN.IL.AV" place="above">r</add></mod><anchor xml:id="ftn231"/> pruchich besen # </l>
                     <l xml:id="lid_052r03">d* ruer hi-2nen da mit ni-2cht # so sichst du bol baz den ge<mod ana="TR"><del ana="DL.BL">r</del></mod>sicht<anchor xml:id="ftn232"/> # </l>
 
                     <l xml:id="lid_052v01">d*er<anchor xml:id="ftn233"/> iude bas2 des2 vil perai-2t # er tet als i-2m bas2 vuer glai-2t # er nam </l>
                     <l xml:id="lid_052v02">den palm vnd gi-2e # hin zuden siechen da die # lagen in maniger vn </l>
-                    <l xml:id="lid_052v03">gehabe # er<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">r</add></mod>ichtet<anchor xml:id="ftn234"/> seu ier ierretumes abe # v-d sprach in den gelaubei voer # </l>
+                    <l xml:id="lid_052v03">gehabe # er<mod ana="TR"><add ana="IN.IL.AV" place="above">r</add></mod>ichtet<anchor xml:id="ftn234"/> seu ier ierretumes abe # v-d sprach in den gelaubei voer # </l>
 
                     <l xml:id="lid_053r01">er rueft seu ander selden spoer # sazehant als er seu pestraich # deu </l>
                     <l xml:id="lid_053r02"> noet im von dem leibe baich # also erloest er seu inchurcer stunde # </l>
@@ -867,34 +862,34 @@
                     <l xml:id="lid_053r04">vil sere #<anchor xml:id="ftn235"/>
                     </l>
 
-                    <l xml:id="lid_053v01"><anchor xml:id="ftn236"/> die lagen des2 gehen endes2 toet # sus2 bas2 ver endet diseu n<mod ana="TR"><add ana="IN.NM.MG.TP" place="inspace">o</add></mod>et<anchor xml:id="ftn237"/> # du </l>
+                    <l xml:id="lid_053v01"><anchor xml:id="ftn236"/> die lagen des2 gehen endes2 toet # sus2 bas2 ver endet diseu n<mod ana="TR"><add ana="IN.MG.TP" place="inspace">o</add></mod>et<anchor xml:id="ftn237"/> # du </l>
                     <l xml:id="lid_053v02">die i-2uden diseu mere # geaisten bie den ergangen bere # die so gach </l>
                     <l xml:id="lid_053v03">erstuben # vnd die andern die daz leben erburuen # vnd bie ez </l>
 
                     <l xml:id="lid_054r01">dem pissolf ergie # penamen die begunden sie # sich von dem bege </l>
-                    <l xml:id="lid_054r02">ruchen<anchor xml:id="ftn238"/> # und indie bi-2nchel smuchen # si <mod ana="TR"><del ana="DL.WR.ST">binchnchtei</del></mod><anchor xml:id="ftn239"/> beichten vnd </l>
+                    <l xml:id="lid_054r02">ruchen<anchor xml:id="ftn238"/> # und indie bi-2nchel smuchen # si <mod ana="TR"><del ana="DL.ST">binchnchtei</del></mod><anchor xml:id="ftn239"/> beichten vnd </l>
                     <l xml:id="lid_054r03">purgen sich # pierg du dich da hie pierg ich mi-2ch # bier haben ubel </l>
                     <l xml:id="lid_054r04">getan #<anchor xml:id="ftn240"/>
                     </l>
 
                     <l xml:id="lid_054v01">dar under sul bier doch pebaren # daz bier imer vergehen # baz </l>
                     <l xml:id="lid_054v02">hie <mod ana="TR"><del ana="DL.BL">sei</del></mod><anchor xml:id="ftn241"/>
-                        <mod ana="TR"><del ana="DL.WR.ST">ge</del></mod><anchor xml:id="ftn242"/> bunders2 sei gesechen # ier schallen bas gar<anchor xml:id="ftn243"/> gelegen # </l>
-                    <l xml:id="lid_054v03">die d* par solten pflegen # die sungen <mod ana="TR"><metamark xml:id="MM_lid_054v03">&amp;</metamark><add ana="IN.MM.IL.AV" place="above"><metamark corresp="#MM_lid_054v03">&amp;</metamark> baz si</add></mod><anchor xml:id="ftn244"/>
-                         bolden # vn truegen als si </l>
+                        <mod ana="TR"><del ana="DL.ST">ge</del></mod><anchor xml:id="ftn242"/> bunders2 sei gesechen # ier schallen bas gar<anchor xml:id="ftn243"/> gelegen # </l>
+                    <l xml:id="lid_054v03">die d* par solten pflegen # die sungen <mod ana="TR"><add ana="IN.IL.AV" place="above"><metamark corresp="#MM_lid_054v03">&amp;</metamark> baz si</add></mod><anchor xml:id="ftn244"/>
+                        <metamark xml:id="MM_lid_054v03">&amp;</metamark> bolden # vn truegen als si </l>
 
                     <l xml:id="lid_055r01">solden # zu dem grabe vnser freuen # daz e baz gehauen # mit </l>
                     <l xml:id="lid_055r02">groezzem vleizzem # in ainen stai-2n # da aller mensen dehai-2n # </l>
-                    <l xml:id="lid_055r03">voer ni-2e bart in geleit # da bart mit groezze<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">r</add></mod><anchor xml:id="ftn245"/> soenhait # </l>
+                    <l xml:id="lid_055r03">voer ni-2e bart in geleit # da bart mit groezze<mod ana="TR"><add ana="IN.IL.AV" place="above">r</add></mod><anchor xml:id="ftn245"/> soenhait # </l>
 
                     <l xml:id="lid_055v01">pestatet d* engel chunegi-2n # vnd pebahret vnc an in # als in </l>
                     <l xml:id="lid_055v02">gepoet v-d riet # vnser herre do er von in sied # deu bacht beret </l>
-                    <l xml:id="lid_055v03">als ich eu sage # zboe nacht vnd zben tage # des2 driten moer<mod ana="TR"><del ana="DM">g</del><add ana="IN.NM.IL.AV" place="above">g</add></mod>e-s<anchor xml:id="ftn246"/>
+                    <l xml:id="lid_055v03">als ich eu sage # zboe nacht vnd zben tage # des2 driten moer<mod ana="TR"><del ana="DM">g</del><add ana="IN.IL.AV" place="above">g</add></mod>e-s<anchor xml:id="ftn246"/>
                     </l>
 
                     <l xml:id="lid_056r01">vil vrue # du chom in auer<anchor xml:id="ftn247"/> vnser her zue # er lie sich seinperleiche- </l>
-                    <l xml:id="lid_056r02">sechen # er sprach nu sult ier <mod ana="TR"><metamark xml:id="MM_lid_056r02">&amp;</metamark><add ana="IN.MM.IL.AV" place="above"><metamark corresp="#MM_lid_056r02">&amp;</metamark> alle</add></mod><anchor xml:id="ftn248"/>
-                         mier vergehen # euern billen vnd </l>
+                    <l xml:id="lid_056r02">sechen # er sprach nu sult ier <mod ana="TR"><add ana="IN.IL.AV" place="above"><metamark corresp="#MM_lid_056r02">&amp;</metamark> alle</add></mod><anchor xml:id="ftn248"/>
+                        <metamark xml:id="MM_lid_056r02">&amp;</metamark> mier vergehen # euern billen vnd </l>
                     <l xml:id="lid_056r03">euren rat # seit mennisleichez recht pegangen hat # mein liebeu </l>
                     <l xml:id="lid_056r04">mueter baz<anchor xml:id="ftn249"/>
                     </l>
@@ -902,10 +897,10 @@
                     </l>
 
                     <l xml:id="lid_056v01">mit ier nach meinen eren nu # daz euch allen bol geualle # die herren </l>
-                    <l xml:id="lid_056v02">sbigen alle # nuer ai-2n sand <mod ana="TR"><metamark xml:id="MM_lid_056v02">&amp;</metamark><add ana="IN.MM.IL.AV" place="inspace"><metamark corresp="#MM_lid_056v02">&amp;</metamark> simon</add></mod><anchor xml:id="ftn251"/>
-                         peter <mod ana="TR"><add ana="IN.NM.IL.AV" place="inspace"><unclear>d*</unclear></add></mod><anchor xml:id="ftn252"/> &amp; sprach # vuer die andern sus2 # owe <mod ana="TR"><del ana="DL.WR.ST">als</del></mod><anchor xml:id="ftn253"/>
+                    <l xml:id="lid_056v02">sbigen alle # nuer ai-2n sand <mod ana="TR"><add ana="IN.IL.AV" place="inspace"><metamark corresp="#MM_lid_056v02">&amp;</metamark> simon</add></mod><anchor xml:id="ftn251"/>
+                        <metamark xml:id="MM_lid_056v02">&amp;</metamark> peter <mod ana="TR"><add ana="IN.IL.AV" place="inspace"><unclear>d*</unclear></add></mod><anchor xml:id="ftn252"/> &amp; sprach # vuer die andern sus2 # owe <mod ana="TR"><del ana="DL.ST">als</del></mod><anchor xml:id="ftn253"/>
                     </l>
-                    <l xml:id="lid_056v03">albaltunder chri-2st # indeiner hant peslozen ist # dier belt vm<mod ana="TR"><add ana="IN.NM.IL.AV" place="inspace">e</add></mod>rinch <anchor xml:id="ftn254"/># </l>
+                    <l xml:id="lid_056v03">albaltunder chri-2st # indeiner hant peslozen ist # dier belt vm<mod ana="TR"><add ana="IN.IL.AV" place="inspace">e</add></mod>rinch <anchor xml:id="ftn254"/># </l>
 
                     <l xml:id="lid_057r01">himel vnd elleu dinch # deu du hast peuangen # deu nieman chan </l>
                     <l xml:id="lid_057r02">er langen # die hoeche noch die tiefe nider # die beite vuer v-d bider # </l>
@@ -914,13 +909,13 @@
                     </l>
 
                     <l xml:id="lid_057v01">bes2 mochte bier dar ume gehen # oder bar zue toechte vnser rat # </l>
-                    <l xml:id="lid_057v02">seit dei-2n voergedanche <mod ana="TR"><metamark xml:id="MM_lid_057v02">&amp;</metamark><add ana="IN.MM.IL.AV" place="above"><metamark corresp="#MM_lid_057v02">&amp;</metamark> verendet</add></mod><anchor xml:id="ftn256"/>
-                         hat # allez daz da ie gesach od* gesechen sol # </l>
+                    <l xml:id="lid_057v02">seit dei-2n voergedanche <mod ana="TR"><add ana="IN.IL.AV" place="above"><metamark corresp="#MM_lid_057v02">&amp;</metamark> verendet</add></mod><anchor xml:id="ftn256"/>
+                        <metamark xml:id="MM_lid_057v02">&amp;</metamark> hat # allez daz da ie gesach od* gesechen sol # </l>
                     <l xml:id="lid_057v03">dar zue baist du herre bol # vil manegeu groeze hailichai-2t # die </l>
 
                     <l xml:id="lid_058r01">du andiseu frauen hast gelai-2t # baz bart den eren ie geleich # do </l>
                     <l xml:id="lid_058r02">du herre vn toedleich # vnd vnliebleich bereue<anchor xml:id="ftn257"/> daz du sei ze sagrere # </l>
-                    <l xml:id="lid_058r03">dei-2ner hailich<mod ana="TR"><del ana="DM">h</del><add ana="IN.NM.IL.AV" place="above">h</add></mod>a<mod ana="TR"><add ana="IN.NM.IL.AV" place="inspace">i</add></mod>t<anchor xml:id="ftn258"/> erchuer # vnd durch die verslozzen tuer # chom i-2n </l>
+                    <l xml:id="lid_058r03">dei-2ner hailich<mod ana="TR"><del ana="DM">h</del><add ana="IN.IL.AV" place="above">h</add></mod>a<mod ana="TR"><add ana="IN.IL.AV" place="inspace">i</add></mod>t<anchor xml:id="ftn258"/> erchuer # vnd durch die verslozzen tuer # chom i-2n </l>
                     <l xml:id="lid_058r04">ier bei-2ngarte- #<anchor xml:id="ftn259"/>
                     </l>
 
@@ -929,8 +924,8 @@
                     <l xml:id="lid_058v03"><anchor xml:id="ftn260"/> gothai-2t # den vnser mueter eua vnd ada- # mit ier vngehor2sam # </l>
 
                     <l xml:id="lid_059r01">vns2 an prachten # du si dei-2n gepot versmachten # nach des2 alten </l>
-                    <l xml:id="lid_059r02">veindes <mod ana="TR"><del ana="DL.WR.ST">haz</del></mod><anchor xml:id="ftn261"/>
-                        <mod ana="TR"><add ana="IN.NM.IL.AV" place="above">rat #</add></mod> # den ier buecher seit erburget hat # an dem angel den </l>
+                    <l xml:id="lid_059r02">veindes <mod ana="TR"><del ana="DL.ST">haz</del></mod><anchor xml:id="ftn261"/>
+                        <mod ana="TR"><add ana="IN.IL.AV" place="above">rat #</add></mod> # den ier buecher seit erburget hat # an dem angel den </l>
                     <l xml:id="lid_059r03">er verslant # da er i-2n hangunt an dem chreuz uant # vnd nach der </l>
 
                     <l xml:id="lid_059v01">vrstende alle hoehe hat vberstigen # <!-- Modellierung?? --><mod ana="TR"><del ana="TF.RD">d</del><anchor xml:id="ftn262"/>s</mod>old dier teuer merce hie </l>
@@ -938,8 +933,8 @@
                     <l xml:id="lid_059v03">missezem deinem namen # vnd ben sich muesten sa<mod ana="TR"><del ana="DL.BL"><unclear>?</unclear></del></mod> men<anchor xml:id="ftn263"/> # sbaz </l>
 
                     <l xml:id="lid_060r01"><mod ana="TR"><del ana="DL.BK">?</del></mod><anchor xml:id="ftn264"/>
-                        <mod ana="TR"><del ana="DL.WR.ST">haih</del></mod><anchor xml:id="ftn265"/> hailigen da ze himel <mod ana="TR"><del ana="DL.WR.ST">sint</del></mod><anchor xml:id="ftn266"/>
-                        <mod ana="TR"><add ana="IN.NM.MG.TP" place="above">ist</add></mod> #da si frau vnd du herre pist # </l>
+                        <mod ana="TR"><del ana="DL.ST">haih</del></mod><anchor xml:id="ftn265"/> hailigen da ze himel <mod ana="TR"><del ana="DL.ST">sint</del></mod><anchor xml:id="ftn266"/>
+                        <mod ana="TR"><add ana="IN.MG.TP" place="above">ist</add></mod> #da si frau vnd du herre pist # </l>
                     <l xml:id="lid_060r02">seit ez ist v-d berden sol # so gezimt vnd stat ier bol # sba der </l>
                     <l xml:id="lid_060r03">chunech gechroenet sei # daz im deu chunegi-2n pei-2 # gezieret mi-2t </l>
                     <l xml:id="lid_060r04">d* chroene ge #<anchor xml:id="ftn267"/>
@@ -947,9 +942,9 @@
 
                     <l xml:id="fol_060v"> </l>
 
-                    <l xml:id="lid_061r01">neben im siz vu<mod ana="TR"><add ana="IN.NM.MG.TP" place="above">n</add></mod>d<anchor xml:id="ftn268"/> ste # da ze himel da si chuneginne ist # vnd <mod ana="TR"><del ana="DL.WR.ST">chuni</del></mod><anchor xml:id="ftn269"/>
+                    <l xml:id="lid_061r01">neben im siz vu<mod ana="TR"><add ana="IN.MG.TP" place="above">n</add></mod>d<anchor xml:id="ftn268"/> ste # da ze himel da si chuneginne ist # vnd <mod ana="TR"><del ana="DL.ST">chuni</del></mod><anchor xml:id="ftn269"/>
                     </l>
-                    <l xml:id="lid_061r02">du chunech pist # daz si <mod ana="TR"><del ana="DL.WR.ST">peleibe</del></mod><anchor xml:id="ftn270"/> da bei dier peleib # nugeruech </l>
+                    <l xml:id="lid_061r02">du chunech pist # daz si <mod ana="TR"><del ana="DL.ST">peleibe</del></mod><anchor xml:id="ftn270"/> da bei dier peleib # nugeruech </l>
                     <l xml:id="lid_061r03">dem edelen leibe # die rainen sel bider geben # v-d haiz seu mit ein </l>
                     <l xml:id="lid_061r04">ander leben #<anchor xml:id="ftn271"/>
                     </l>
@@ -959,8 +954,8 @@
                     <l xml:id="lid_061v03">ist uns ni-2emen pezzer zue # der rat geui-2el i-2m due bol # </l>
 
                     <l xml:id="lid_062r01">des2 in die herren paten # band si daz mit treuen taten # </l>
-                    <l xml:id="lid_062r02">er gepoet in daz si neme<mod ana="TR"><del ana="TF.CO.RD">m</del>n</mod><anchor xml:id="ftn272"/> abe den obern <mod ana="TR"><del ana="DL.WR.ST">grab</del></mod><anchor xml:id="ftn273"/> stain von </l>
-                    <l xml:id="lid_062r03">dem grabe # du d* ab bart genomen # du hiez <mod ana="TR"><add ana="IN.NM.IL.AV" place="inspace">er</add></mod><anchor xml:id="ftn274"/> soen bid* cho </l>
+                    <l xml:id="lid_062r02">er gepoet in daz si neme<mod ana="TR"><del ana="TF.CO.RD">m</del>n</mod><anchor xml:id="ftn272"/> abe den obern <mod ana="TR"><del ana="DL.ST">grab</del></mod><anchor xml:id="ftn273"/> stain von </l>
+                    <l xml:id="lid_062r03">dem grabe # du d* ab bart genomen # du hiez <mod ana="TR"><add ana="IN.IL.AV" place="inspace">er</add></mod><anchor xml:id="ftn274"/> soen bid* cho </l>
                     <l xml:id="lid_062r04">men<anchor xml:id="ftn275"/>
                     </l>
 
@@ -972,12 +967,12 @@
                     <l xml:id="lid_063r02">nimermer ersturbe # noch ureud an ier verdurbe # der eren ureute </l>
                     <l xml:id="lid_063r03">si sich # vil groezleichen hast du mich # sprach si herre geeret # </l>
 
-                    <l xml:id="lid_063v01"><anchor xml:id="ftn276"/> dei-2n lob an mi-2e<mod ana="TR"><add ana="IN.NM.MG.TP" place="inspace">r</add></mod><anchor xml:id="ftn277"/> gemeret # des muez sein gesai-2t # dier dreien i-2n ai-2ner </l>
+                    <l xml:id="lid_063v01"><anchor xml:id="ftn276"/> dei-2n lob an mi-2e<mod ana="TR"><add ana="IN.MG.TP" place="inspace">r</add></mod><anchor xml:id="ftn277"/> gemeret # des muez sein gesai-2t # dier dreien i-2n ai-2ner </l>
                     <l xml:id="lid_063v02">rai-2nchait # dier ai-2nem dri-2ualtichait # genedich bis2 und gebaltich # </l>
                     <l xml:id="lid_063v03">du hast uil bol zu mier getan # mit lieb ich uber bunden han # </l>
 
                     <l xml:id="lid_064r01">sbaz mier laides2 ie gesach # mit laid vnd mi-2t ungemach # ist mier mit </l>
-                    <l xml:id="lid_064r02">vreuden <mod ana="TR"><del ana="DL.WR.ST">penom</del></mod><anchor xml:id="ftn278"/> hingelait # seit ich in der <mod ana="TR"><add ana="IN.NM.IL.AV" place="above"><del ana="DL">i-2ner</del></add></mod><anchor xml:id="ftn279"/> ebichai-2t # mit dier anende </l>
+                    <l xml:id="lid_064r02">vreuden <mod ana="TR"><del ana="DL.ST">penom</del></mod><anchor xml:id="ftn278"/> hingelait # seit ich in der <mod ana="TR"><add ana="IN.IL.AV" place="above"><del ana="DL">i-2ner</del></add></mod><anchor xml:id="ftn279"/> ebichai-2t # mit dier anende </l>
                     <l xml:id="lid_064r03">besen sol # daz eret dich vnd tuet mier bol # Nu bizzet bol daz ai-2n </l>
                     <l xml:id="lid_064r04">man #<anchor xml:id="ftn280"/>
                     </l>
@@ -988,14 +983,14 @@
 
                     <l xml:id="lid_065r01">daz got de<!-- Feiner Modellieren? +.BL?? --><mod ana="TR"><del ana="TF.CO.RD">m</del>r</mod><anchor xml:id="ftn281"/> belt hat geben # daz ist eleicheu heirat # sbelcher die ze </l>
                     <l xml:id="lid_065r02">recht hat # d* ist hie vnd dor2t genesen # genueg benent daz si be </l>
-                    <l xml:id="lid_065r03">sen # mit rechter e<mod ana="TR" type="reading_aid"><add ana="IN.NM.IL.AV">^</add></mod><anchor xml:id="ftn282"/> des2 sint si ni-2cht # sber der gemehel seine pflicht # </l>
+                    <l xml:id="lid_065r03">sen # mit rechter e<mod ana="TR" type="reading_aid"><add ana="IN.IL.AV">^</add></mod><anchor xml:id="ftn282"/> des2 sint si ni-2cht # sber der gemehel seine pflicht # </l>
 
                     <l xml:id="lid_065v01">mit valser lieb nutsset<anchor xml:id="ftn283"/> # daz sint die den da erliset # daz liecht i-2nd* </l>
                     <l xml:id="lid_065v02">vinster # vnd die da zu d* vi-2nster # vil iemercleichen gestent # hie </l>
                     <l xml:id="lid_065v03">voer so die andern hin in gent # die solher bizze baltent # daz si </l>
 
                     <l xml:id="lid_066r01">sich bol pehaltenet # #<anchor xml:id="ftn284"/> Nu lazze bi-2er die rede hie # vnd greiffen bid* </l>
-                    <l xml:id="lid_066r02">an die # da bier sei liezzen e<mod ana="TR" type="reading_aid"><add ana="IN.NM.IL.AV">^</add></mod><anchor xml:id="ftn285"/> # hie vi<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">e</add></mod>l<anchor xml:id="ftn286"/> ai-2n degen zu rechter e<mod ana="TR" type="reading_aid"><add ana="IN.IL.AV">^</add></mod><anchor xml:id="ftn287"/> # ai-2neu </l>
+                    <l xml:id="lid_066r02">an die # da bier sei liezzen e<mod ana="TR" type="reading_aid"><add ana="IN.IL.AV">^</add></mod><anchor xml:id="ftn285"/> # hie vi<mod ana="TR"><add ana="IN.IL.AV" place="above">e</add></mod>l<anchor xml:id="ftn286"/> ai-2n degen zu rechter e<mod ana="TR" type="reading_aid"><add ana="IN.IL.AV">^</add></mod><anchor xml:id="ftn287"/> # ai-2neu </l>
                     <l xml:id="lid_066r03">maget sein mueter nemen # deu heirat mag in bol gezemen #<anchor xml:id="ftn288"/>
                     </l>
 
@@ -1009,37 +1004,37 @@
 
                     <l xml:id="lid_067v01">zu d* frauen anuange # man hoert an ier gesange # aineu bunne </l>
                     <l xml:id="lid_067v02">chleicheu haim uart # d* helle da enzuchet bart # vil maneger el </l>
-                    <l xml:id="lid_067v03">lender gast # ier sloz ier poert ier rigel prast # als beilen e<mod ana="TR" type="reading_aid"><add ana="IN.NM.IL.AV">^</add></mod><anchor xml:id="ftn293"/> gesach </l>
+                    <l xml:id="lid_067v03">lender gast # ier sloz ier poert ier rigel prast # als beilen e<mod ana="TR" type="reading_aid"><add ana="IN.IL.AV">^</add></mod><anchor xml:id="ftn293"/> gesach </l>
 
                     <l xml:id="lid_068r01">du sei got selb auf prach # sus2 chom er in auer zetroest # du er </l>
                     <l xml:id="lid_068r02">manege sel erloest # mit vnser frauen haim verte # die binchel </l>
-                    <l xml:id="lid_068r03">er pecherte # die sergen <mod ana="TR"><metamark xml:id="MM_lid_068r03_1">&amp;</metamark><del ana="DL.WR.ST">vluh</del><add ana="IN.MM.IL.AV" place="above"><del ana="DL.BL">
-                                    <unclear><metamark corresp="#MM_lid_068r03_1">&amp;</metamark></unclear></del></add><add ana="IN.NM.IL.AV" place="above">fluhen</add></mod><anchor xml:id="ftn294"/> von ier <mod ana="TR"><metamark corresp="#MM_lid_068r03_2">&amp;</metamark><add ana="IN.MM.IL.AV" place="inspace">pflege</add></mod>
+                    <l xml:id="lid_068r03">er pecherte # die sergen <mod ana="TR"><metamark xml:id="MM_lid_068r03_1">&amp;</metamark><del ana="DL.ST">vluh</del><add ana="IN.IL.AV" place="above"><del ana="DL.BL">
+                                    <unclear><metamark corresp="#MM_lid_068r03_1">&amp;</metamark></unclear></del></add><add ana="IN.IL.AV" place="above">fluhen</add></mod><anchor xml:id="ftn294"/> von ier <mod ana="TR"><metamark corresp="#MM_lid_068r03_2">&amp;</metamark><add ana="IN.IL.AV" place="inspace">pflege</add></mod>
                         <mod ana="TR"><del ana="DL.BL">p<unclear>fl</unclear>eg # fluhen</del>
-                            <add ana="IN.MM.IL.AV" place="above"><del ana="DL.BL">a<metamark>&amp;</metamark></del></add></mod><anchor xml:id="ftn295"/>
-                        <mod ana="TR"><add ana="IN.MM.IL.AV" place="above"><metamark>&amp;</metamark><metamark>&amp;</metamark></add></mod> # si purgen sich </l>
+                            <add ana="IN.IL.AV" place="above"><del ana="DL.BL">a<metamark>&amp;</metamark></del></add></mod><anchor xml:id="ftn295"/>
+                        <mod ana="TR"><add ana="IN.IL.AV" place="above"><metamark>&amp;</metamark><metamark>&amp;</metamark></add></mod> # si purgen sich </l>
                     <l xml:id="lid_068r04">von dem bege #<anchor xml:id="ftn296"/>
                     </l>
                     <l xml:id="lid_068r08">pflege <metamark xml:id="MM_lid_068r03_2">&amp;</metamark><anchor xml:id="ftn297"/>
                     </l>
 
-                    <l xml:id="lid_068v01">du der gebalti-2g quam # d* in guet vnd ere nam # du u<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">o</add></mod>ebt<anchor xml:id="ftn298"/> sich ier </l>
+                    <l xml:id="lid_068v01">du der gebalti-2g quam # d* in guet vnd ere nam # du u<mod ana="TR"><add ana="IN.IL.AV" place="above">o</add></mod>ebt<anchor xml:id="ftn298"/> sich ier </l>
                     <l xml:id="lid_068v02">alter val # der sele buef der engel sal # die samten sich ze samde </l>
-                    <l xml:id="lid_068v03">da # si sungen epitalamica # daz pedeutet hoecheu praut <mod ana="TR"><del ana="DL.WR.ST">lid</del></mod><anchor xml:id="ftn299"/> liet # </l>
+                    <l xml:id="lid_068v03">da # si sungen epitalamica # daz pedeutet hoecheu praut <mod ana="TR"><del ana="DL.ST">lid</del></mod><anchor xml:id="ftn299"/> liet # </l>
 
                     <l xml:id="lid_069r01">als er die armen da peri-2et # so perat er uns2 imer mere # durch </l>
                     <l xml:id="lid_069r02">seiner mueter ere # D2ie zbelf haus genoeze # die buerden nach </l>
-                    <l xml:id="lid_069r03"><mod ana="TR"><del ana="DL.WR.ST">i</del></mod> ier loez<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">z</add></mod>e<anchor xml:id="ftn301"/> # hin bid* gesezzet i-2n deu lant # da ier iesleicher e<mod ana="TR" type="reading_aid"><add ana="IN.IL.AV">^</add></mod><anchor xml:id="ftn302"/> bas </l>
+                    <l xml:id="lid_069r03"><mod ana="TR"><del ana="DL.ST">i</del></mod> ier loez<mod ana="TR"><add ana="IN.IL.AV" place="above">z</add></mod>e<anchor xml:id="ftn301"/> # hin bid* gesezzet i-2n deu lant # da ier iesleicher e<mod ana="TR" type="reading_aid"><add ana="IN.IL.AV">^</add></mod><anchor xml:id="ftn302"/> bas </l>
                     <l xml:id="lid_069r04">gesant<anchor xml:id="ftn303"/>
                     </l>
 
                     <l xml:id="lid_069v01">daz gesach inso churcer vrist # als ain aug zue geslagen ist # od* bi </l>
-                    <l xml:id="lid_069v02">d<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">?</add></mod><anchor xml:id="ftn304"/>er auf geplichet hat # daz gesuef von de- gesriben stat # als2 vns2 </l>
+                    <l xml:id="lid_069v02">d<mod ana="TR"><add ana="IN.IL.AV" place="above">?</add></mod><anchor xml:id="ftn304"/>er auf geplichet hat # daz gesuef von de- gesriben stat # als2 vns2 </l>
                     <l xml:id="lid_069v03">davi-2d machet chunt # dixit @<anchor xml:id="ftn305"/> facta sunt # er sprach ez bas getan # </l>
 
-                    <l xml:id="lid_070r01">e er gepoet auch diz muest ergan # Hie <mod ana="TR"><del ana="DL.WR.ST">hat</del></mod><anchor xml:id="ftn306"/> ist daz </l>
+                    <l xml:id="lid_070r01">e er gepoet auch diz muest ergan # Hie <mod ana="TR"><del ana="DL.ST">hat</del></mod><anchor xml:id="ftn306"/> ist daz </l>
                     <l xml:id="lid_070r02">puech ver endet # vnser frau hat gelendet # zu dem </l>
-                    <l xml:id="lid_070r03">himlisen stade # da iamer <mod ana="TR"><del ana="DM">?</del></mod><anchor xml:id="ftn307"/> sere vnd chlage # </l>
+                    <l xml:id="lid_070r03">himlisen stade # da iamer <mod ana="TR"><del ana="DL">?</del></mod><anchor xml:id="ftn307"/> sere vnd chlage # </l>
 
                     <l xml:id="lid_070v01">an ende ni-2mer gesbiert bol im der da gesinde </l>
                     <l xml:id="lid_070v02">
@@ -1065,34 +1060,34 @@
                     <l xml:id="lid_071v03">groezzen schulde mei-2n # vnd mier sandest deinen s<anchor xml:id="ftn311"/>troest </l>
 
                     <l xml:id="lid_072r01">gaist # der aller guete ist vollauist # der mich beis vnd lere # </l>
-                    <l xml:id="lid_072r02">daz da 
-                        <mod ana="TR"><metamark xml:id="MM_lid_072r02">&amp;</metamark><add ana="IN.MM.IL.AV" place="inspace"><metamark corresp="#MM_lid_072r02">&amp;</metamark> herre</add></mod><anchor xml:id="ftn312"/> sei dein lob vnd dei-2n ere # manichvaltich ist hrre dei-2n </l>
+                    <l xml:id="lid_072r02">daz da <metamark xml:id="MM_lid_072r02">&amp;</metamark>
+                        <mod ana="TR"><add ana="IN.IL.AV" place="inspace"><metamark corresp="#MM_lid_072r02">&amp;</metamark> herre</add></mod><anchor xml:id="ftn312"/> sei dein lob vnd dei-2n ere # manichvaltich ist hrre dei-2n </l>
                     <l xml:id="lid_072r03">gebalt # vil groez ist dein guete # du bis mein geni-2st # </l>
 
-                    <l xml:id="lid_072v01">da du daz sbendun veuer sust pist # hic ba<mod ana="TR"><add ana="IN.NM.MG.TP" place="above">i</add></mod> z<anchor xml:id="ftn313"/> baz sp<mod ana="TR"><add ana="IN.NM.MG.TP" place="inspace">r</add></mod>echen<anchor xml:id="ftn314"/> mere # nuer </l>
+                    <l xml:id="lid_072v01">da du daz sbendun veuer sust pist # hic ba<mod ana="TR"><add ana="IN.MG.TP" place="above">i</add></mod> z<anchor xml:id="ftn313"/> baz sp<mod ana="TR"><add ana="IN.MG.TP" place="inspace">r</add></mod>echen<anchor xml:id="ftn314"/> mere # nuer </l>
                     <l xml:id="lid_072v02">ich sag dier lob vnd ere # zebundern du bol pist # band du bund </l>
                     <l xml:id="lid_072v03">erleicher pist # den allez daz der ist # bol sind boerden dei-2neu </l>
 
                     <l xml:id="lid_073r01">bunder schein # an ai-2nem vil hailigen magedein # gehaizzen </l>
                     <l xml:id="lid_073r02">bas si margarete # got si vil holden hete # bol schain daz dar </l>
-                    <l xml:id="lid_073r03">an # als ich andem puech vernomen han # bande si truech <mod ana="TR"><metamark xml:id="MM_lid_073r03">|</metamark><add ana="IN.MM.IL.AV" place="inspace"><metamark corresp="#MM_lid_073r03">|</metamark> mannes</add></mod><anchor xml:id="ftn315"/> muet </l>
+                    <l xml:id="lid_073r03">an # als ich andem puech vernomen han # bande si truech <metamark xml:id="MM_lid_073r03">|</metamark><mod ana="TR"><add ana="IN.IL.AV" place="inspace"><metamark corresp="#MM_lid_073r03">|</metamark> mannes</add></mod><anchor xml:id="ftn315"/> muet </l>
 
                     <l xml:id="lid_073v01">
                         <anchor xml:id="ftn316"/> doch<anchor xml:id="ftn317"/>ez manegen man nicht daucht guet # bie daz allez sei dergang # </l>
-                    <l xml:id="lid_073v02">daz vernemet <mod ana="TR"><metamark xml:id="MM_lid_073v02">|</metamark><add ana="IN.MM.IL.AV" place="inspace"><metamark corresp="#MM_lid_073v02">|</metamark>bol</add></mod><anchor xml:id="ftn318"/> / beib vnd man # nu freu sich beibes guete # daz </l>
+                    <l xml:id="lid_073v02">daz vernemet <metamark xml:id="MM_lid_073v02">|</metamark><mod ana="TR"><add ana="IN.IL.AV" place="inspace"><metamark corresp="#MM_lid_073v02">|</metamark>bol</add></mod><anchor xml:id="ftn318"/> / beib vnd man # nu freu sich beibes guete # daz </l>
                     <l xml:id="lid_073v03">vnder in funden sei ain so starch gemuete # gepezzert sei-2n </l>
 
                     <l xml:id="lid_074r01">dapei die man # gotesnamen so heb bier an # Nach der marter </l>
                     <l xml:id="lid_074r02">vnd nach der vrstende # vnsers2 heren iesu xp-i # vnd nach seiner </l>
-                    <l xml:id="lid_074r03">lobleichen aufferte # hin ze hi-2mel <mod ana="TR"><metamark xml:id="MM_lid_074r03">|</metamark><add ana="IN.MM.IL.AV" place="inspace">zu</add></mod><anchor xml:id="ftn319"/> got vater almechtigen # </l>
+                    <l xml:id="lid_074r03">lobleichen aufferte # hin ze hi-2mel <metamark xml:id="MM_lid_074r03">|</metamark><mod ana="TR"><add ana="IN.IL.AV" place="inspace">zu</add></mod><anchor xml:id="ftn319"/> got vater almechtigen # </l>
 
                     <l xml:id="lid_074v01">indes2 namen manige martrere burden gemartert # vnd </l>
                     <l xml:id="lid_074v02">vberbunden<anchor xml:id="ftn320"/> die<anchor xml:id="ftn321"/> belt # vnd die vlesichere dannoch pehabten<anchor xml:id="ftn322"/> # </l>
                     <l xml:id="lid_074v03">iedoch de tobhait<anchor xml:id="ftn323"/> des2 tieuels vil manigen menschen # daz </l>
 
-                    <l xml:id="lid_075r01">si die abgot <mod ana="TR"><del ana="DL.WR.ST">vnd</del></mod><anchor xml:id="ftn324"/> vn hoernteu # vnd stumigeu # <mod ana="TR"><del ana="DL.WR.ST">vnd</del></mod><anchor xml:id="ftn325"/>
+                    <l xml:id="lid_075r01">si die abgot <mod ana="TR"><del ana="DL.ST">vnd</del></mod><anchor xml:id="ftn324"/> vn hoernteu # vnd stumigeu # <mod ana="TR"><del ana="DL.ST">vnd</del></mod><anchor xml:id="ftn325"/>
                     </l>
-                    <l xml:id="lid_075r02"><mod ana="TR"><del ana="DL.WR.ST">plinteu #</del></mod><anchor xml:id="ftn326"/> vnd plinteu # vnd mit der hant des2 men </l>
+                    <l xml:id="lid_075r02"><mod ana="TR"><del ana="DL.ST">plinteu #</del></mod><anchor xml:id="ftn326"/> vnd plinteu # vnd mit der hant des2 men </l>
                     <l xml:id="lid_075r03">schen gemachtem anpeten # vnd den opherten # </l>
 
                     <l xml:id="lid_075v01">deu in selben noch andern iemen frumten # I<anchor xml:id="ftn327"/>ch theo </l>
@@ -1100,15 +1095,15 @@
                     <l xml:id="lid_075v03">christes2 # sazte mich gebarleichen daz zerchennen # bie geuo </l>
 
                     <l xml:id="lid_076r01">chten habe deu hailigeu margareta # bider die tieuel vnd </l>
-                    <l xml:id="lid_076r02">bider die bu<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">o</add></mod>etreich<anchor xml:id="ftn328"/> # vnd <mod ana="TR"><del ana="DL.WR.ST">bider</del></mod><anchor xml:id="ftn329"/> bie si seu vberbant # vnd </l>
-                    <l xml:id="lid_076r03">nach meinen staten gab ich loen vnd chaufte <mod ana="TR"><del ana="DL.WR.ST">pn</del></mod><anchor xml:id="ftn330"/> priefe # </l>
+                    <l xml:id="lid_076r02">bider die bu<mod ana="TR"><add ana="IN.IL.AV" place="above">o</add></mod>etreich<anchor xml:id="ftn328"/> # vnd <mod ana="TR"><del ana="DL.ST">bider</del></mod><anchor xml:id="ftn329"/> bie si seu vberbant # vnd </l>
+                    <l xml:id="lid_076r03">nach meinen staten gab ich loen vnd chaufte <mod ana="TR"><del ana="DL.ST">pn</del></mod><anchor xml:id="ftn330"/> priefe # </l>
 
                     <l xml:id="lid_076v01">von den die schreibere baren in den zeiten # vnd schraib an allez </l>
                     <l xml:id="lid_076v02">daz erliten hat # sand Margarete deu heiligeu maget # A<anchor xml:id="ftn331"/>lle die </l>
                     <l xml:id="lid_076v03">
                         <anchor xml:id="ftn332"/> oeren haben die hoeren # vnd vernemen man vnd beib # magd </l>
 
-                    <l xml:id="lid_077r01">vnd dieren # vnd se<mod ana="TR"><add ana="IN.NM.MG.TP" place="above">t</add></mod>zzen<anchor xml:id="ftn333"/> in ier her<mod ana="TR"><add ana="IN.NM.MG.TP" place="above">t</add></mod>ze<anchor xml:id="ftn334"/> # daz si enphahen daz </l>
+                    <l xml:id="lid_077r01">vnd dieren # vnd se<mod ana="TR"><add ana="IN.MG.TP" place="above">t</add></mod>zzen<anchor xml:id="ftn333"/> in ier <!-- Modellierung? visuell cs. linguistisch -->he<mod ana="TR"><add ana="IN.MG.TP" place="above">t</add></mod>rze<anchor xml:id="ftn334"/> # daz si enphahen daz </l>
                     <l xml:id="lid_077r02">hail ier<anchor xml:id="ftn335"/> sele # vnd die vrau sand margarete # deu bas theodo </l>
                     <l xml:id="lid_077r03">si-2j-2 tachter # der bas der haiden patriarch # vnd anpete die </l>
                     <l xml:id="lid_077r04">apgoter<anchor xml:id="ftn336"/>
@@ -1122,7 +1117,7 @@
                     <l xml:id="lid_078r02">hailigen christ # hazzich bas si dem uater # lieb vnserm her </l>
                     <l xml:id="lid_078r03">ren # band si bas uol des hailigen gaistes2 # zbelf iar alt si bas # </l>
 
-                    <l xml:id="lid_078v01">vnd bont liebleichen in ier ammen # ha<mod ana="TR"><add ana="IN.NM.MG.TP" place="inspace">u</add></mod>s<anchor xml:id="ftn337"/> # da si vernam sand </l>
+                    <l xml:id="lid_078v01">vnd bont liebleichen in ier ammen # ha<mod ana="TR"><add ana="IN.MG.TP" place="inspace">u</add></mod>s<anchor xml:id="ftn337"/> # da si vernam sand </l>
                     <l xml:id="lid_078v02">margarete deu gottes2 erbelteu # aller martrere streit # da ergab </l>
                     <l xml:id="lid_078v03">
                         <anchor xml:id="ftn338"/> si sich gar got # der sei euch hailigot # vnd ier rer magtum pehuet # </l>
@@ -1151,18 +1146,18 @@
                     <l xml:id="lid_081r04">gelere #<anchor xml:id="ftn345"/>
                     </l>
 
-                    <l xml:id="lid_081v01">vnd als rech in dem ne<mod ana="TR"><add ana="IN.NM.MG.TP" place="above">t</add></mod>ze<anchor xml:id="ftn346"/> geuangen # hilf mier herre # vnd hail </l>
+                    <l xml:id="lid_081v01">vnd als rech in dem ne<mod ana="TR"><add ana="IN.MG.TP" place="above">t</add></mod>ze<anchor xml:id="ftn346"/> geuangen # hilf mier herre # vnd hail </l>
                     <l xml:id="lid_081v02">mich # nicht verla mich <unclear>in</unclear><anchor xml:id="ftn347"/> der vbeln gebalt # du chomen die </l>
                     <l xml:id="lid_081v03">riter auer zu dem herren # vnd sprachen zu im # dei-2n gebalt mag </l>
 
-                    <l xml:id="lid_082r01">ier ni-2cht gem<mod ana="TR"><add ana="IN.NM.MG.TP" place="above">a</add></mod>i-2n-en<anchor xml:id="ftn348"/> # sei-2n # band sie dienet deinen gote </l>
+                    <l xml:id="lid_082r01">ier ni-2cht gem<mod ana="TR"><add ana="IN.MG.TP" place="above">a</add></mod>i-2n-en<anchor xml:id="ftn348"/> # sei-2n # band sie dienet deinen gote </l>
                     <l xml:id="lid_082r02">rn nicht # nuer ainen got <unclear>si</unclear><anchor xml:id="ftn349"/> an petet # den die iude- </l>
-                    <l xml:id="lid_082r03">chreutzen # du bart <mod ana="TR"><metamark xml:id="MM_lid_082r03_1">|</metamark><add ana="IN.MM.IL.AV" place="inspace"><metamark corresp="#MM_lid_082r03_1">|</metamark> d* richter <metamark corresp="#MM_lid_082r03_1">|</metamark>
-                            </add></mod><anchor xml:id="ftn350"/> olibri% zornich # vnd gepoet daz <mod ana="TR"><metamark xml:id="MM_lid_082r03_2">|</metamark><add ana="IN.MM.IL.AV" place="inspace">so</add></mod><anchor xml:id="ftn351"/> i-2m sei pre </l>
+                    <l xml:id="lid_082r03">chreutzen # du bart <metamark xml:id="MM_lid_082r03_1">|</metamark><mod ana="TR"><add ana="IN.IL.AV" place="inspace"><metamark corresp="#MM_lid_082r03_1">|</metamark> d* richter <metamark corresp="#MM_lid_082r03_1">|</metamark>
+                            </add></mod><anchor xml:id="ftn350"/> olibri% zornich # vnd gepoet daz <metamark xml:id="MM_lid_082r03_2">|</metamark><mod ana="TR"><add ana="IN.IL.AV" place="inspace">so</add></mod><anchor xml:id="ftn351"/> i-2m sei pre </l>
                     <l xml:id="lid_082r04">chten<anchor xml:id="ftn352"/>
                     </l>
 
-                    <l xml:id="lid_082v01">vnd sprach zu ier # Sage mier belhes geslech<mod ana="TR"><add ana="IN.NM.MG.TP" place="above">t</add></mod>es2<anchor xml:id="ftn353"/> pistu # pist du </l>
+                    <l xml:id="lid_082v01">vnd sprach zu ier # Sage mier belhes geslech<mod ana="TR"><add ana="IN.MG.TP" place="above">t</add></mod>es2<anchor xml:id="ftn353"/> pistu # pist du </l>
                     <l xml:id="lid_082v02">vrei oder aigen # sand margaret deu sprach zu i-2m # ich pin urei # </l>
                     <l xml:id="lid_082v03">vnd pin ai-2n christen # du sprach der richtere # an ben gelaub </l>
 
@@ -1191,7 +1186,7 @@
                     </l>
 
                     <l xml:id="lid_085v01">sant margaret im antbuerte ; Christ ophert sich selb vm </l>
-                    <l xml:id="lid_085v02">uns # dar um enfurch ich toed ligen vm i-2n ; du hiez er sei-2 au<mod ana="TR"><subst ana="RP"><del ana="DM">f</del><add ana="IN.NM.IL.AV" place="above">f</add></subst></mod><anchor xml:id="ftn357"/>
+                    <l xml:id="lid_085v02">uns # dar um enfurch ich toed ligen vm i-2n ; du hiez er sei-2 au<mod ana="TR"><del ana="DL.BL">f</del><add ana="IN.IL.AV" place="above">f</add></mod><anchor xml:id="ftn357"/>
                     </l>
                     <l xml:id="lid_085v03">hahen ; da sach deu hailige margareta zehi-2mel vnd sprach </l>
 
@@ -1205,7 +1200,7 @@
                     <l>
                         <anchor xml:id="ftn359"/>lid_086v03 enden # bai-2nten vil haiz vm sei # vnd sprachen ; oube </l>
 
-                    <l xml:id="lid_087r01">Margareta vns i-2st lai-2t vm di-2ch daz wi<mod ana="TR"><add ana="IN.NM.MG.TP" place="above">e</add></mod><anchor xml:id="ftn360"/>r di-2ch s<unclear>o</unclear><anchor xml:id="ftn361"/>
+                    <l xml:id="lid_087r01">Margareta vns i-2st lai-2t vm di-2ch daz wi<mod ana="TR"><add ana="IN.MG.TP" place="above">e</add></mod><anchor xml:id="ftn360"/>r di-2ch s<unclear>o</unclear><anchor xml:id="ftn361"/>
                     </l>
                     <l xml:id="lid_087r02">chi-2ndschen schen martern # durch dei-2ner selber chrim </l>
                     <l xml:id="lid_087r03"> du sprach # s2 # margarete # ia ier ubeln ratgeben # </l>
@@ -1225,19 +1220,19 @@
                     <l xml:id="lid_088v02">leib zeprechen # Sant margaret deu sach hinz himel vnd </l>
                     <l xml:id="lid_088v03">sprach # vil hunte habent mich vmgeben # vnd deu samnug d* </l>
 
-                    <l xml:id="lid_089r01">vbelteten # hat mich<mod ana="TR"><del ana="DL.WR.ST">uni</del></mod><anchor xml:id="ftn366"/>chunich christ # vnd gib mi-2er </l>
+                    <l xml:id="lid_089r01">vbelteten # hat mich<mod ana="TR"><del ana="DL.ST">uni</del></mod><anchor xml:id="ftn366"/>chunich christ # vnd gib mi-2er </l>
                     <l xml:id="lid_089r02">geding des2 ebigen lebens2 # la mei-2n gepet chomen </l>
                     <l xml:id="lid_089r03">hin zehi-2mel # vnd daz ich also geuechte # daz ich vb* </l>
                     <l xml:id="lid_089r04">bi-2nde<anchor xml:id="ftn367"/>
                     </l>
 
                     <l xml:id="lid_089v01">meinen biderbart # der mit mier vichtet # vnd daz ich </l>
-                    <l xml:id="lid_089v02">geb zuersicht allen maiden # des dein nam gesegnet <mod ana="TR"><del ana="DL.WR.ST">sei #</del></mod><anchor xml:id="ftn368"/>
-                        <mod ana="TR"><add ana="IN.NM.IL.AV" place="above">ist #</add></mod>
+                    <l xml:id="lid_089v02">geb zuersicht allen maiden # des dein nam gesegnet <mod ana="TR"><del ana="DL.ST">sei #</del></mod><anchor xml:id="ftn368"/>
+                        <mod ana="TR"><add ana="IN.IL.AV" place="above">ist #</add></mod>
                     </l>
                     <l xml:id="lid_089v03">ebichleichen # vnd* deu sluegen sei-2 die fleischere # vnd verparg </l>
 
-                    <l xml:id="lid_090r01"><mod ana="TR"><del ana="DL.WR.BK">d</del></mod><anchor xml:id="ftn369"/>der rihter sei-2n antluz # band er sei voer dem pluete </l>
+                    <l xml:id="lid_090r01"><mod ana="TR"><del ana="DL.BK">d</del></mod><anchor xml:id="ftn369"/>der rihter sei-2n antluz # band er sei voer dem pluete </l>
                     <l xml:id="lid_090r02">nicht an gesehen mochte # also taten auch die ande </l>
                     <l xml:id="lid_090r03">ren allesamt # du sp*4ch der richter zu ier # baz ist daz du </l>
 
@@ -1249,7 +1244,7 @@
                     <l xml:id="lid_091r02">sele indie verlor2nusse # sam deu dei-2n # du hiez olibri% die </l>
                     <l xml:id="lid_091r03">maget versperren indem charchere # du auer si dari-2n gie # </l>
 
-                    <l xml:id="lid_091v01">du segent <mod ana="TR"><metamark xml:id="MM_lid_091v01">|</metamark><add ana="IN.MM.MG.TP" place="inspace"><metamark corresp="#MM_lid_091v01">|</metamark>si</add></mod><anchor xml:id="ftn370"/> sich # mit dem zaichen des2 hailigen chreuzes # vnd </l>
+                    <l xml:id="lid_091v01">du segent <mod ana="TR"><add ana="IN.MG.TP" place="inspace">si</add></mod><anchor xml:id="ftn370"/> sich # mit dem zaichen des2 hailigen chreuzes # vnd </l>
                     <l xml:id="lid_091v02">sprach ier gepet also # nicht verla mich herre got # mich </l>
                     <l xml:id="lid_091v03">sunder du hilfe mier # vnd gepeut daz ich sehe meinen </l>
 
@@ -1265,7 +1260,7 @@
                     <l xml:id="lid_093r02">sei-2nen nasluegern gie chreftiger stanch # vnd rachte sich </l>
                     <l xml:id="lid_093r03">auf die mitte des2 charcheres2 # vnd bispelochte vaste </l>
 
-                    <l xml:id="lid_093v01">du bart daz liecht michel in dem charchere # von dem veu<mod ana="TR"><add ana="IN.NM.MG.TP" place="inspace">r</add></mod>e<anchor xml:id="ftn371"/>
+                    <l xml:id="lid_093v01">du bart daz liecht michel in dem charchere # von dem veu<mod ana="TR"><add ana="IN.MG.TP" place="inspace">r</add></mod>e<anchor xml:id="ftn371"/>
                     </l>
                     <l xml:id="lid_093v02">daz auz dem trackhen vuer # Sand margarete deu ruefte </l>
                     <l xml:id="lid_093v03">vnd sprach # ere dei-2nen nam herre got # ich freuve mich an </l>
@@ -1274,10 +1269,10 @@
                     <l xml:id="lid_094r02">die vrede meiner augen # vnd sten sicher zu disem streit # cha </l>
                     <l xml:id="lid_094r03">mpfe gebafenteu mit dem zaichen des hailigen chrezzez </l>
 
-                    <l xml:id="lid_094v01">du daz gesprach sand <mod ana="TR"><del ana="DL.WR.ST">margte</del></mod><anchor xml:id="ftn372"/> margarete # da verslant <mod ana="TR"><metamark xml:id="MM_lid_094v01">|</metamark><add ana="IN.MM.IL.AV" place="inspace">
+                    <l xml:id="lid_094v01">du daz gesprach sand <mod ana="TR"><del ana="DL.ST">margte</del></mod><anchor xml:id="ftn372"/> margarete # da verslant <metamark xml:id="MM_lid_094v01">|</metamark><mod ana="TR"><add ana="IN.IL.AV" place="inspace">
                                 <metamark corresp="#MM_lid_094v01">|</metamark> sei</add></mod><anchor xml:id="ftn373"/> d* trakche # </l>
                     <l xml:id="lid_094v02">mit dem offen munde # da tet si daz zaichen des2 hailigen chre </l>
-                    <l xml:id="lid_094v03">uzzes an sich # vnd sazehant zeprast <unclear>i-2</unclear>n<anchor xml:id="ftn374"/> miten zbai d* vngeheuer </l>
+                    <l xml:id="lid_094v03">uzzes an sich # vnd sazehant zeprast <unclear>e</unclear>n<anchor xml:id="ftn374"/> miten zbai d* vngeheuer </l>
 
                     <l xml:id="lid_095r01">trache # vnd gie sand margarete auz<anchor xml:id="ftn375"/> seinem pauche # an aller </l>
                     <l xml:id="lid_095r02"> slacht schaden # du cherte si sich in daz vinster tail des charche </l>
@@ -1291,11 +1286,11 @@
 
                     <l xml:id="lid_096r01">gesegneter got ebichleichen # ich pitte dich erloese mi-2ch von </l>
                     <l xml:id="lid_096r02">mei-2nen vei-2nden # vnd den die gen mier auf stent erloe mich # </l>
-                    <l xml:id="lid_096r03">als si daz an ier gepet vol sprach # du gie d* tieuel zu ier # vnd <mod ana="TR"><metamark xml:id="MM_lid_096r03">&amp;</metamark><add ana="IN.MM.IL.BW" place="inspace"> vie</add></mod><anchor xml:id="ftn378"/> sant </l>
+                    <l xml:id="lid_096r03">als si daz an ier gepet vol sprach # du gie d* tieuel zu ier # vnd <mod ana="TR"><metamark xml:id="MM_lid_096r03">&amp;</metamark><add ana="IN.IL.BW" place="inspace"> vie</add></mod><anchor xml:id="ftn378"/> sant </l>
 
                     <l xml:id="lid_096v01">sand margareten pei der hant vnd sprach # la dichgenuegen<anchor xml:id="ftn379"/> mar </l>
                     <l xml:id="lid_096v02">gareta # daz du mier getan hast # enthabe dich von mier # band </l>
-                    <l xml:id="lid_096v03">ich sich dich bol sten an deine- gepet # Ich het her zu<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">o</add></mod>e<anchor xml:id="ftn380"/> dier gesant # </l>
+                    <l xml:id="lid_096v03">ich sich dich bol sten an deine- gepet # Ich het her zu<mod ana="TR"><add ana="IN.IL.AV" place="above">o</add></mod>e<anchor xml:id="ftn380"/> dier gesant # </l>
 
                     <l xml:id="lid_097r01">meinen prueder rufonem # inder geleichnus aines2 trakchen # </l>
                     <l xml:id="lid_097r02">daz er dich verslunte # vnd nem dein gehugde von d* belt # du hast </l>
@@ -1307,7 +1302,7 @@
 
                     <l xml:id="lid_097v01">enthab dich von meinem magtu- # band ich got han zuainem </l>
                     <l xml:id="lid_097v02">helfer # vnd pin deu christes2 praut # des2 d* da lebt ebichleich # du si also </l>
-                    <l xml:id="lid_097v03">g<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">e</add></mod>sprach<anchor xml:id="ftn382"/> du d*schain ain licht allen gachens2 inde- charchere # vnd </l>
+                    <l xml:id="lid_097v03">g<mod ana="TR"><add ana="IN.IL.AV" place="above">e</add></mod>sprach<anchor xml:id="ftn382"/> du d*schain ain licht allen gachens2 inde- charchere # vnd </l>
                     <l xml:id="lid_097v04">daz chreuz des2 hailige christes2 # bart gesehen vnz in dem himel # </l>
                     <l> </l>
                     <l xml:id="lid_098r01">vnd ain taube saz dar auf vnd sprach # selig pist du </l>
@@ -1322,15 +1317,15 @@
 
                     <l xml:id="lid_099r01">die ich han getan # deu hailigen maget sprach # ich sol dier daz </l>
                     <l xml:id="lid_099r02">nicht sagen # bant du pist nicht bierdikch meine stime ze </l>
-                    <l xml:id="lid_099r03">hoeren # <!-- Modellierung? -->d<mod ana="TR"><subst ana="RP"><del ana="DM">e</del><add ana="IN.NM.IL.AV" place="above">e</add></subst></mod>r<anchor xml:id="ftn383"/> tieuel sprach # Sathanas ist vnser chunich # d* da </l>
+                    <l xml:id="lid_099r03">hoeren # <!-- Modellierung? -->d<mod ana="TR"><del ana="DL.DM">e</del><add ana="IN.IL.AV" place="above">e</add></mod>r<anchor xml:id="ftn383"/> tieuel sprach # Sathanas ist vnser chunich # d* da </l>
                     <l xml:id="lid_099r04">geboerfen bart von himel # in den puechen iamne vnd ma-bre # </l>
                     <l xml:id="lid_099r05"><anchor xml:id="ftn384"/>vindest du </l>
                     <l xml:id="lid_099r06">vnser geslech </l>
                     <l xml:id="lid_099r07">te<anchor xml:id="ftn385"/>
                     </l>
 
-                    <l xml:id="lid_099v01">helis2 ist mein nam # nach beelzebub han 
-                        <mod ana="TR"><metamark xml:id="MM_lid_099v01">|</metamark><add ana="IN.MM.MG.TP" place="inspace">ich</add></mod><anchor xml:id="ftn386"/> vil manges rechten </l>
+                    <l xml:id="lid_099v01">helis2 ist mein nam # nach beelzebub han <metamark xml:id="MM_lid_099v01">|</metamark>
+                        <mod ana="TR"><add ana="IN.MG.TP" place="inspace">ich</add></mod><anchor xml:id="ftn386"/> vil manges rechten </l>
                     <l xml:id="lid_099v02">mannes arbait verslichet # der chunich salomon het vns ver </l>
                     <l xml:id="lid_099v03">sperret in ain vaz # du chomen leute von babiloni-2e # die banten </l>
                     <l xml:id="lid_099v04">daz si gold vunden # vnd zeprachen daz vaz # vnd burde bier lazen # </l>
@@ -1338,7 +1333,7 @@
                     <l xml:id="lid_100r01">vnd erwlten die belt # do poet si im inden binchel des charch </l>
                     <l xml:id="lid_100r02">eres de andern tages2 gepoet d* richtere sand margareten </l>
                     <l xml:id="lid_100r03">vuer zeuveren vnd sprach zu ier # Henge mier vnd anpete </l>
-                    <l xml:id="lid_100r04">meine goter # so geschieht dier bol in meinem hause # deu ha<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">i</add></mod>ligeu<anchor xml:id="ftn387"/>
+                    <l xml:id="lid_100r04">meine goter # so geschieht dier bol in meinem hause # deu ha<mod ana="TR"><add ana="IN.IL.AV" place="above">i</add></mod>ligeu<anchor xml:id="ftn387"/>
                     </l>
                     <l xml:id="lid_100r05">maget im </l>
                     <l xml:id="lid_100r06">antbuerte #<anchor xml:id="ftn388"/>
@@ -1350,7 +1345,7 @@
                     <l xml:id="lid_100v04">mit den prinunden liechtuazzen # die diener teten also in gepoten bas # </l>
 
                     <l xml:id="lid_101r01">vnd pranten ieren leib # du hueb si auf ier gepet vnd sprach # pren </l>
-                    <l xml:id="lid_101r02">ne herre mein lanchen # vn- mein herzze # daz an mier icht sei dehain<anchor xml:id="ftn389"/>
+                    <l xml:id="lid_101r02">ne herre mein lanchen # vn- mein herzze # daz an mier icht sei <!-- Revision?? -->dehai<mod ana="TR"><add ana="IN.IL.AV" place="above">n</add></mod><anchor xml:id="ftn389"/>
                     </l>
                     <l xml:id="lid_101r03">vn recht # d* richter sprach henge mier margareta # vn- anpete </l>
                     <l xml:id="lid_101r04">meine goter # vn toedleiche # S # margaete sp*3ch # ich enhenge dier </l>
@@ -1359,14 +1354,14 @@
 
                     <l xml:id="lid_101v01">noch anpete deine goter # band du mich zbare nicht macht vercheren von </l>
                     <l xml:id="lid_101v02">mei-2nem gelauben # du hiez der richtere dar pringen # ai-2n michel vaz # vollez </l>
-                    <l xml:id="lid_101v03">bazzers # vnd hiez ier pinden hend vnd fu<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">o</add></mod>eze<anchor xml:id="ftn391"/> # vnd also toeten indem bazzer # </l>
-                    <l xml:id="lid_101v04">die dienere teten also si geleret baren # du 
-                        <mod ana="TR"><metamark xml:id="MM_lid_101v04">|</metamark><add ana="IN.MM.IL.AV" place="inspace"><metamark corresp="#MM_lid_101v04">|</metamark>sach <metamark corresp="#MM_lid_101v04">|</metamark></add></mod><anchor xml:id="ftn392"/> sand margarete hinze himel # </l>
+                    <l xml:id="lid_101v03">bazzers # vnd hiez ier pinden hend vnd fu<mod ana="TR"><add ana="IN.IL.AV" place="above">o</add></mod>eze<anchor xml:id="ftn391"/> # vnd also toeten indem bazzer # </l>
+                    <l xml:id="lid_101v04">die dienere teten also si geleret baren # du <metamark xml:id="MM_lid_101v04">|</metamark>
+                        <mod ana="TR"><add ana="IN.IL.AV" place="inspace"><metamark corresp="#MM_lid_101v04">|</metamark>sach <metamark corresp="#MM_lid_101v04">|</metamark></add></mod><anchor xml:id="ftn392"/> sand margarete hinze himel # </l>
 
                     <l xml:id="lid_102r01">vnd sp*3ch # herre du da reichsenst ebichleichen # ze prich mei-2n gepende # vnd </l>
                     <l xml:id="lid_102r02">seid ich dier opher # daz opfer des lebens2 # mach mach mach mich herre # </l>
                     <l xml:id="lid_102r03">lauter # vnd gib mier daz in diesem bazzer berden vertilget # alle meine </l>
-                    <l xml:id="lid_102r04">su<mod ana="TR"><subst ana="RP"><del ana="DL.WR.BK">?</del><anchor xml:id="ftn393"/><add ana="IN.NM.IL.AV" place="above">n</add></subst></mod>te # vnd berde mier dizz bazzer ain prun d* taufe # vnd chom vber </l>
+                    <l xml:id="lid_102r04">su<mod ana="TR"><del ana="DL.BK">?</del><anchor xml:id="ftn393"/><add ana="IN.IL.AV" place="above">n</add></mod>te # vnd berde mier dizz bazzer ain prun d* taufe # vnd chom vber </l>
                     <l xml:id="lid_102r05">mich # deu dei-2n </l>
                     <l xml:id="lid_102r06">hailigeu taube #<anchor xml:id="ftn395"/>
                     </l>
@@ -1391,9 +1386,9 @@
                     <l xml:id="lid_103v05">a<anchor xml:id="ftn400"/>ls drate vuert sei d* dienstman # gehaizzen malch% # auz d* stat # v-d </l>
 
                     <l xml:id="lid_104r01">sprach zu ier # reche dei-2ne hals adern # vnd enpfache mein swert # </l>
-                    <l xml:id="lid_104r02">vnd erparme dich vber mich # band<mod ana="TR"><add ana="IN.NM.IL.AV" place="inspace">e</add></mod><anchor xml:id="ftn401"/> ich siche # christ mit sei-2ne- </l>
+                    <l xml:id="lid_104r02">vnd erparme dich vber mich # band<mod ana="TR"><add ana="IN.IL.AV" place="inspace">e</add></mod><anchor xml:id="ftn401"/> ich siche # christ mit sei-2ne- </l>
                     <l xml:id="lid_104r03">engel vm dich stan # deu mait sprach # ich pite dich prueder # daz </l>
-                    <l xml:id="lid_104r04">du mier paitest vnz<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">i</add></mod>en<anchor xml:id="ftn402"/> mein gepet hab getan # vnd daz ich enp </l>
+                    <l xml:id="lid_104r04">du mier paitest vnz<mod ana="TR"><add ana="IN.IL.AV" place="above">i</add></mod>en<anchor xml:id="ftn402"/> mein gepet hab getan # vnd daz ich enp </l>
                     <l xml:id="lid_104r05">filhe mei-2ne sele # dem hailigen christe # du sprach d* dienstman # ich </l>
                     <l xml:id="lid_104r06">peit als lang </l>
                     <l xml:id="lid_104r07">so du bil<anchor xml:id="ftn403"/>
@@ -1401,15 +1396,15 @@
 
                     <l xml:id="lid_104v01">du chni-2ete si nider # vnd sp*4ch ier gepet also # got du da gemezzen hast # mit </l>
                     <l xml:id="lid_104v02">diener chraft himel vnd erde # vnd dem mere ende gesezzet hast # erho </l>
-                    <l xml:id="lid_104v03">ere min gepet # swer so<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">e</add></mod><anchor xml:id="ftn404"/>
-                        <mod ana="TR"><del ana="DL.WR.ST">gehoer</del></mod><anchor xml:id="ftn405"/> gelese daz puech mei-2ner getrachtunge # </l>
-                    <l xml:id="lid_104v04">vnd swer so<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">e</add></mod><anchor xml:id="ftn406"/> gehoer mei-2ne marter # daz von der beile vertilget berde # alle </l>
+                    <l xml:id="lid_104v03">ere min gepet # swer so<mod ana="TR"><add ana="IN.IL.AV" place="above">e</add></mod><anchor xml:id="ftn404"/>
+                        <mod ana="TR"><del ana="DL.ST">gehoer</del></mod><anchor xml:id="ftn405"/> gelese daz puech mei-2ner getrachtunge # </l>
+                    <l xml:id="lid_104v04">vnd swer so<mod ana="TR"><add ana="IN.IL.AV" place="above">e</add></mod><anchor xml:id="ftn406"/> gehoer mei-2ne marter # daz von der beile vertilget berde # alle </l>
                     <l xml:id="lid_104v05">seine sunte # vn- swer so mache von seiner arbait liecht # in mei-2ner chirchen # </l>
 
                     <l xml:id="lid_105r01">daz i-2m i-2cht verbi-2zzen berden sei-2ne sunte # vnd swer so vunden ber </l>
                     <l xml:id="lid_105r02">de schuldi-2ger # andem vrtai-2l # vnd gedench er mei-2nes names<anchor xml:id="ftn407"/> # so </l>
-                    <l xml:id="lid_105r03">erloese 
-                        <mod ana="TR"><metamark xml:id="MM_lid_105r03">|</metamark><add ana="IN.MM.IL.AV" place="above">i-2n</add></mod><anchor xml:id="ftn408"/> herre von den bei-2zzen # dar zu pi-2t i-2ch di-2ch herre # swer </l>
+                    <l xml:id="lid_105r03">erloese <metamark xml:id="MM_lid_105r03">|</metamark>
+                        <mod ana="TR"><add ana="IN.IL.AV" place="above">i-2n</add></mod><anchor xml:id="ftn408"/> herre von den bei-2zzen # dar zu pi-2t i-2ch di-2ch herre # swer </l>
                     <l xml:id="lid_105r04">ai-2ne chirche-<anchor xml:id="ftn409"/>
                     </l>
 
@@ -1429,7 +1424,7 @@
                     <l xml:id="lid_106v03">der sei-2 sold enhaupen # prueder ni-2m swert # vnd slache mi-2ch # band </l>
                     <l xml:id="lid_106v04">mi-2ch lustet von di-2sem leben zeuaren # vnd bonen mi-2t chri-2ste # du sp*3ch er # </l>
 
-                    <l xml:id="lid_107r01">i-ch getar dich ni-2cht geslachen # band i-2ch si-2ch deu gotes2 chraft vmbe<anchor xml:id="ftn412"/>
+                    <l xml:id="lid_107r01">i-ch getar dich ni-2cht geslachen # band i-2ch si-2ch deu gotes2 chraft vmb<mod ana="TR"><add ana="IN.MG.TP" place="above">e</add></mod><anchor xml:id="ftn412"/>
                     </l>
                     <l xml:id="lid_107r02">dich # Sand margarete sprach # tuest du sei-2n ni-2cht # so hast du ni-2cht </l>
                     <l xml:id="lid_107r03">tailes mi-2t mi-2t<anchor xml:id="ftn413"/> mi-2er i-2ndem gotes rei-2che # du sprach d* enthauper </l>
@@ -1444,10 +1439,10 @@
                     <l xml:id="lid_107v03">sacehant chomen die engel # vnd sazen vm den lei-2chnam # d* hailigen </l>
 
                     <l xml:id="lid_108r01">maide # vnd hueten des # du chomen dar siechen # vnd ruerten </l>
-                    <l xml:id="lid_108r02">den leichnam an # die buerden all<mod ana="TR"><add ana="IN.NM.IL.AV" place="inspace">e</add></mod><anchor xml:id="ftn417"/> gesu-t # vnd buerden dieuel ver </l>
+                    <l xml:id="lid_108r02">den leichnam an # die buerden all<mod ana="TR"><add ana="IN.IL.AV" place="inspace">e</add></mod><anchor xml:id="ftn417"/> gesu-t # vnd buerden dieuel ver </l>
                     <l xml:id="lid_108r03">triben # auz den pehaften # du namen die engel die sele # </l>
 
-                    <l xml:id="lid_108v01">vnd vuerten sei-2 indie himel # ru<mod ana="TR"><add ana="IN.NM.IL.AV" place="above">o</add></mod>fund<anchor xml:id="ftn418"/> vnd sprechund # hailich # hailich# </l>
+                    <l xml:id="lid_108v01">vnd vuerten sei-2 indie himel # ru<mod ana="TR"><add ana="IN.IL.AV" place="above">o</add></mod>fund<anchor xml:id="ftn418"/> vnd sprechund # hailich # hailich# </l>
                     <l xml:id="lid_108v02">hailich # pist du herregot # des hailtums vol sint die himel # vnd deu </l>
                     <l xml:id="lid_108v03">erde deiner ere # lob sei dier inder hoehe # als vollen toet # S # margarete </l>
 
@@ -1505,7 +1500,7 @@
                     <l xml:id="lid_114r01">deu nach ier pild leben bil # secht deu hat imer eren vil ; Ioachim vnd </l>
                     <l xml:id="lid_114r02">anna do # lebten mi-2t ainand* so # ane chint gar zbainzech iar # vn- bas ier </l>
                     <l xml:id="lid_114r03">leben doch lauter gar ; ango si sich liezen # <mod ana="TR"><del ana="DL.BK">gar</del></mod><anchor xml:id="ftn432"/> des bolden seu geniezen ; </l>
-                    <l xml:id="lid_114r04">daz er in hiete gerben <mod ana="TR"><metamark xml:id="MM_lid_114r04">|</metamark><add ana="IN.MM.IL.AV" place="inspace">ge</add></mod><anchor xml:id="ftn433"/> geben # da mit gechroenet ber ier leben # </l>
+                    <l xml:id="lid_114r04">daz er in hiete gerben <mod ana="TR"><metamark xml:id="MM_lid_114r04">|</metamark><add ana="IN.IL.AV" place="inspace">ge</add></mod><anchor xml:id="ftn433"/> geben # da mit gechroenet ber ier leben # </l>
 
                     <l xml:id="lid_114v01">Nu bas auch chomen ier hoechzeit # als ez and* schrift leit ; daz er sein opher </l>
                     <l xml:id="lid_114v02">bolde # auch pri-2ngen als2 scholde ; ze dem tempel nach gebonhait # dar </l>
@@ -1551,15 +1546,15 @@
                     <l xml:id="lid_117v01">vn- daz chi-2nt daz du gepi-2rst ; daz biert aller berlde troest # al menschen </l>
                     <l xml:id="lid_117v02">geslecht biert erloest ; vo- dem suezem buecher sei-2n # da verswant des </l>
                     <l xml:id="lid_117v03">engel schei-2n ; voer ier augen al zehant # si gie da si ier chamer vant ; </l>
-                    <l xml:id="lid_117v04">vn- let sich an ier pete sa # vn- lag recht 
-                        <mod ana="TR"><metamark xml:id="MM_lid_117v04">|</metamark><add ana="IN.MM.IL.AV" place="inspace">als</add></mod><anchor xml:id="ftn445"/> vuer toet al da ; alle die naht </l>
+                    <l xml:id="lid_117v04">vn- let sich an ier pete sa # vn- lag recht <metamark xml:id="MM_lid_117v04">|</metamark>
+                        <mod ana="TR"><add ana="IN.IL.AV" place="inspace">als</add></mod><anchor xml:id="ftn445"/> vuer toet al da ; alle die naht </l>
 
                     <l xml:id="lid_118r01">vn- al den tach # das si ni-2cht den gepetes2 pflach ; D2u daz gesach si rueft </l>
                     <l xml:id="lid_118r02">zu ier # ier diern nu bie stet daz dier # bie enbaiz vn- mier ist geschen # </l>
                     <l xml:id="lid_118r03">sp<mod ana="TR"><add ana="IN.IL.AV" place="above">u</add></mod>ch si daz du mi-2ch hast gesechen ; mier ist lait daz ich ni-2cht enhan # </l>
                     <l xml:id="lid_118r04">pei mi-2er mi-2enen lieben man # deu diern ier antbuerte da # spotleich </l>
-                    <l xml:id="lid_118r05">des bart 
-                        <mod ana="TR"><metamark xml:id="MM_lid_118r05">|</metamark><add ana="IN.MM.IL.AV" place="inspace">si</add></mod><anchor xml:id="ftn446"/> / vnvro ;<anchor xml:id="ftn447"/>
+                    <l xml:id="lid_118r05">des bart <metamark xml:id="MM_lid_118r05">|</metamark>
+                        <mod ana="TR"><add ana="IN.IL.AV" place="inspace">si</add></mod><anchor xml:id="ftn446"/> / vnvro ;<anchor xml:id="ftn447"/>
                     </l>
 
                     <l xml:id="lid_118v01">si sp*4ch baz tuen ich dier vuerpaz # seit daz got dier ist gehaz ; vn- dein </l>
@@ -1660,8 +1655,8 @@
                     </l>
 
                     <l xml:id="lid_126v01">eruolet nach d* schrift sage # inden te-pel seu prachten do # daz suezze </l>
-                    <l xml:id="lid_126v02">chint des buerden seu vro # die 
-                        <mod ana="TR"><metamark xml:id="MM_lid_126v02">&amp;</metamark><add ana="IN.MM.IL.AV" place="above"><del ana="DL"><unclear>??</unclear>et <metamark corresp="#MM_lid_126v02">&amp;</metamark>
+                    <l xml:id="lid_126v02">chint des buerden seu vro # die <metamark xml:id="MM_lid_126v02">&amp;</metamark>
+                        <mod ana="TR"><add ana="IN.IL.AV" place="above"><del ana="DL"><unclear>??</unclear>et <metamark corresp="#MM_lid_126v02">&amp;</metamark>
                                 </del></add></mod><anchor xml:id="ftn476"/> daz volch alz geleich # bant daz chint </l>
                     <l xml:id="lid_126v03">bas so bunni-2chleich # daz seu des alle iahen # daz seu ni-2e chint gesa </l>
                     <l xml:id="lid_126v04">chen # so schoen noch li-2echt geuar # ier varbe bas durch leuchtich gar # </l>
@@ -1677,8 +1672,8 @@
                     <l xml:id="lid_127v01"><anchor xml:id="ftn480"/> daz sei-2ner schoen ni-2cht bas geleich # deu mueter zoech ez mit muete </l>
                     <l xml:id="lid_127v02">rleich ; du ez chom vber daz drite iar # du prachte- seu ez zu de- te-pel </l>
                     <l xml:id="lid_127v03">dar # als se<mod ana="TR"><add ana="IN.IL.AV" place="above">u</add></mod><anchor xml:id="ftn481"/> voer heten getan # dar <mod ana="TR"><del ana="DL.BK">ch</del></mod><anchor xml:id="ftn482"/>
-                        <metamark xml:id="MM_lid_127v04">&amp;</metamark><metamark corresp="#MM_lid_127v04">&amp;</metamark><add ana="IN.MM.IL"></add> frauen vn- man # dami-2t i-2n </l>
-                    <l xml:id="lid_127v04"> chomen<anchor xml:id="ftn483"/>
+                        <metamark corresp="#MM_lid_127v04">&amp;</metamark> frauen vn- man # dami-2t i-2n </l>
+                    <l xml:id="lid_127v04"><metamark xml:id="MM_lid_127v04">&amp;</metamark> chomen<anchor xml:id="ftn483"/>
                     </l>
 
                     <l xml:id="lid_128r01">bart daz opfer pracht # als sein d* vater het gedacht # du er ez <mod ana="TR"><del ana="DL.ST">saz</del></mod><anchor xml:id="ftn484"/>
@@ -1730,8 +1725,8 @@
                     <l xml:id="lid_132r01">pehalten # vn- also bolden alten # zu den man die suezen lie # deu geda </l>
                     <l xml:id="lid_132r02">nch noch billen ni-2e # geban zu suntlei-2cher gier # si hete pei-2 i-2n gelernet </l>
                     <l xml:id="lid_132r03">schi-2er # daz si ier aller maisteri-ne # bart da vo- si chunegi-2nne # vo- i-2n </l>
-                    <l xml:id="lid_132r04">allen da <mod ana="TR"><metamark xml:id="MM_lid_132r04">&amp;3 &amp;</metamark>
-                            <add ana="IN.MM.IL.BW"><metamark corresp="#MM_lid_132r04">&amp;3 &amp;</metamark>genant</add></mod><anchor xml:id="ftn495"/> bart # so lieb bas si i-2n vn- so zart # daz si<mod ana="TR"><add ana="IN.IL.AV" place="above"><unclear>?</unclear></add></mod><anchor xml:id="ftn496"/> alsus2 nanten # band si </l>
+                    <l xml:id="lid_132r04">allen da <mod ana="TR"><metamark corresp="#MM_lid_132r04">&amp;3 &amp;</metamark>
+                            <add ana="IN.IL.BW"><metamark xml:id="MM_lid_132r04">&amp;3 &amp;</metamark>genant</add></mod><anchor xml:id="ftn495"/> bart # so lieb bas si i-2n vn- so zart # daz si<mod ana="TR"><add ana="IN.IL.AV" place="above"><unclear>?</unclear></add></mod><anchor xml:id="ftn496"/> alsus2 nanten # band si </l>
                     <l xml:id="lid_132r05">an ier </l>
                     <l xml:id="lid_132r06">ercha-te-#<anchor xml:id="ftn497"/>
                     </l>
@@ -1742,7 +1737,7 @@
                     <l xml:id="lid_132v04">mit cheusch mit diemue<mod ana="TR"><add ana="IN.IL.AV" place="above">t #</add></mod><anchor xml:id="ftn498"/> si bas gedultich vn- bas guet # mit maze </l>
 
                     <l xml:id="lid_133r01">tet si alle di-2nch # aller tugent ai-2n vrspri-2nch # bas deu vil raineu </l>
-                    <l xml:id="lid_133r02">guete # ier boert si so huete # daz si ni-2e muezich bort gesprach # der <mod ana="TR"><add ana="IN.MM.IL"><metamark xml:id="MM_lid_133r02">&amp;&amp;</metamark></add></mod><anchor xml:id="ftn499"/>
+                    <l xml:id="lid_133r02">guete # ier boert si so huete # daz si ni-2e muezich bort gesprach # der <mod ana="TR"><metamark xml:id="MM_lid_133r02">&amp;&amp;</metamark></mod><anchor xml:id="ftn499"/>
                     </l>
                     <l xml:id="lid_133r03">minne gie si nach # deu het sei durch vlor2en gar # aller sunden bas </l>
                     <l xml:id="lid_133r04">si par # si-2 vlaiz sich aller rai-2nchai-2t # also buegs deu rai-2neu mai-2t # </l>
@@ -1760,8 +1755,8 @@
                     <l xml:id="lid_134r03">des si ze betlehem genas # an aller man mit bi-2st # gepar si-2 ie<mod ana="TR"><add ana="IN.IL.AV" place="above">r</add></mod><anchor xml:id="ftn502"/>
                     </l>
                     <l xml:id="lid_134r04">sun iesu chri-2st # ez ist eu ofte chun getan # bie daz <anchor xml:id="ftn503"/>
-                        <mod ana="TR"><metamark xml:id="MM_lid_134r04">&amp;</metamark><add ana="IN.MM.LI"></add></mod> ist ergan # </l>
-                    <l xml:id="lid_134r05"><mod ana="TR"><add ana="IN.MM.MG.RG"><metamark corresp="#MM_lid_134r04">&amp;</metamark> allez <metamark corresp="#MM_lid_134r04">&amp;</metamark></add></mod><anchor xml:id="ftn504"/>
+                        <metamark xml:id="MM_lid_134r04">&amp;</metamark> ist ergan # </l>
+                    <l xml:id="lid_134r05"><metamark corresp="#MM_lid_134r04">&amp;</metamark> allez <metamark corresp="#MM_lid_134r04">&amp;</metamark><anchor xml:id="ftn504"/>
                     </l>
 
                     <l xml:id="lid_134v01">da vo- lazen ez peleiben # vn- rate gueten bei-2ben # daz si die suezen rainen # </l>
@@ -1774,11 +1769,11 @@
                     <l xml:id="lid_135r01"><anchor xml:id="ftn507"/> si ist mueter d* parmung # ier parmunge dem zung # cha vol rechen # </l>
                     <l xml:id="lid_135r02">ni-2mer # si bert immer vn- i-2mer # sich beib deu ist dem pild*i-2ne # nu </l>
                     <l xml:id="lid_135r03">cher al dein si-2nne # dar nach daz du mst in ier spoer # daz si dier hat </l>
-                    <l xml:id="lid_135r04">getreten voer # mit tugent vn- mi-2t seli-2chait # vn- pitet d<mod ana="TR"><add ana="IN.IL.AV" place="inspace">i</add></mod>e<anchor xml:id="ftn508"/> hoechgelo <metamark xml:id="MM_lid_135r04">&amp;</metamark><anchor xml:id="ftn509"/>
+                    <l xml:id="lid_135r04">getreten voer # mit tugent vn- mi-2t seli-2chait # vn- pitet d<mod ana="TR"><add ana="IN.IL.AV" place="inspace">i</add></mod>e<anchor xml:id="ftn508"/> hoechgelo <mod ana="TR"><metamark xml:id="MM_lid_135r04">&amp;</metamark></mod><anchor xml:id="ftn509"/>
                     </l>
                     <l xml:id="lid_135r05">bten <metamark corresp="#MM_lid_135r04">&amp;</metamark><anchor xml:id="ftn510"/>
                     </l>
-                    <l xml:id="lid_135r06">mai-2t # <metamark corresp="#MM_lid_135r04"><unclear>?</unclear></metamark><anchor xml:id="ftn511"/>
+                    <l xml:id="lid_135r06">mai-2t # <unclear>?</unclear><anchor xml:id="ftn511"/>
                     </l>
 
                     <l xml:id="lid_135v01"> vnd pitet die hoech gepoern mait # daz si an hoehem leben dich # </l>
@@ -1823,7 +1818,7 @@
 
                     <l xml:id="lid_139v01">ob si dier gezemen # daz sag ich suezeu mueter dier # zbelf poten i-2ch ge </l>
                     <l xml:id="lid_139v02">selle mi-2er # den hailigen gaist den send ich in # d* geit in chraft vn- </l>
-                    <l xml:id="lid_139v03">auch den sin # daz si vber al di belt gant <mod ana="TR"><add ana="IN.MM.MG.LF"><metamark xml:id="MMlid_139v03_1">&amp;2</metamark><anchor xml:id="ftn520"/> # ><metamark xml:id="MM_lid_139v03_2">&amp;</metamark></add></mod> si predige-t gelaube- gar # </l>
+                    <l xml:id="lid_139v03">auch den sin # daz si vber al di belt gant <mod ana="TR"><add ana="IN.IL.AV" place="above"><mod ana="TR"><metamark xml:id="MMlid_139v03_1">&amp;2</metamark></mod></add></mod><anchor xml:id="ftn520"/> # <mod ana="TR"><metamark xml:id="MM_lid_139v03_2">&amp;</metamark></mod> si predige-t gelaube- gar # </l>
                     <l xml:id="lid_139v04">
                         <anchor xml:id="ftn521"/>
                         <metamark corresp="#MM_lid_139v03_1">&amp;2</metamark><metamark corresp="#MM_lid_139v03_2">&amp;</metamark><anchor xml:id="ftn522"/>
@@ -1833,7 +1828,7 @@
                     <l xml:id="lid_139v07">voerhte </l>
                     <l xml:id="lid_139v08">lan<mod ana="TR"><add ana="IN.IL.AV" place="above">n</add></mod><anchor xml:id="ftn523"/>t # <mod ana="TR"><del ana="DL.BL">a aa</del></mod><anchor xml:id="ftn524"/>
                     </l>
-                  
+                    <!-- BIS HIERHER -->
                     <l xml:id="lid_140r01">vn- alle die marter mei-2n vuer bar # baz bierst du nach den vierzi-2ch </l>
                     <l xml:id="lid_140r02">tagen # sun mei-2n tue-t daz solt du sagen # vn- ba chrst du denne hi-2n # </l>
                     <l xml:id="lid_140r03">daz sag als lieb ich dier pi-2n # ze hi-2mel ich bunni-2chleiche- var # mit all </l>
@@ -1953,7 +1948,7 @@
                     <l xml:id="lid_150r01">i-2unger ansi-2ch nam # vn- iacob <mod ana="TR"><del ana="DL">d* ai-2n hiez</del></mod><anchor xml:id="ftn565"/> den prued* sei- # d* iesu truech </l>
                     <l xml:id="lid_150r02">
                         <anchor xml:id="ftn566"/> geleichen schei-2n # da pei-2 man i-2n erchante # vn- iesus pru<mod ana="TR"><add ana="IN.IL.AV" place="above">e</add></mod><anchor xml:id="ftn567"/>d* nante # ez het </l>
-                    <l xml:id="lid_150r03">ai-2n sbester <mod ana="TR"><metamark xml:id="MM_lid_150r03">|</metamark><add ana="IN.MM.IL.AV" place="above">sand</add></mod><anchor xml:id="ftn568"/> / anna # deu bas gena-t ismeri-2a # deu sand elizabete- mueter bas # </l>
+                    <l xml:id="lid_150r03">ai-2n sbester <mod ana="TR"><metamark xml:id="MM_lid_150r03">|</metamark><add ana="IN.IL.AV" place="above">sand</add></mod><anchor xml:id="ftn568"/> / anna # deu bas gena-t ismeri-2a # deu sand elizabete- mueter bas # </l>
                     <l xml:id="lid_150r04">deu sand io </l>
                     <l xml:id="lid_150r05">hans2 bap </l>
                     <l xml:id="lid_150r06">ti-2st genas ;<anchor xml:id="ftn569"/>
@@ -1963,7 +1958,7 @@
                     <l xml:id="lid_150v02">vrlaub vragen dich # er sp*4ch du scholt bol vragen mi-2ch # suezeu mueter </l>
                     <l xml:id="lid_150v03">bes du bil # ez sei lutzel od* vil # daz mach ich dier allez chunt # du sp*uch deu muete<mod ana="TR"><add ana="IN.IL.AV" place="above">r</add></mod><anchor xml:id="ftn571"/> # </l>
 
-                    <l xml:id="lid_151r01">an <mod ana="TR"><metamark xml:id="MM_lid_151r01_1">|</metamark><add ana="IN.MM.IL.AV" place="above"><unclear>d*</unclear></add></mod><anchor xml:id="ftn572"/> stunt # ich baiz gar bol daz du got pist<anchor xml:id="ftn573"/> # vn- gotes2 sun vn- mein sun <mod ana="TR"><add ana="IS.MM.LI"><metamark xml:id="MM_lid_151r01_2"><unclear>????</unclear></metamark></add></mod><anchor
+                    <l xml:id="lid_151r01">an <mod ana="TR"><metamark xml:id="MM_lid_151r01_1">|</metamark><add ana="IN.IL.AV" place="above"><unclear>d*</unclear></add></mod><anchor xml:id="ftn572"/> stunt # ich baiz gar bol daz du got pist<anchor xml:id="ftn573"/> # vn- gotes2 sun vn- mein sun <mod ana="TR"><metamark xml:id="MM_lid_151r01_2"><unclear>????</unclear></metamark></mod><anchor
                             xml:id="ftn574"/>
                     </l>
                     <l xml:id="lid_151r02"><mod ana="TR"><del ana="DL.BL">st #</del></mod><anchor xml:id="ftn575"/> aber d* gizzen pi-2n ich vrei-2 # bie i-2ch dei-2n mueter <mod ana="TR"><add ana="IN.IL.AV" place="above">boz</add></mod><anchor xml:id="ftn576"/> den sei-2 # deu i-2nerchai-2t </l>
@@ -2065,7 +2060,7 @@
 
                     <l xml:id="lid_160v01">der symeoni-2s boert # die er sp*4ch and* poert # des te-pels2 da er dich nam # </l>
                     <l xml:id="lid_160v02">auf die arme daz bol zam # er sp*4ch daz swert d* marter mei-2n # durch va </l>
-                    <l xml:id="lid_160v03">ren schol die sele dei-2n # du scholt <mod ana="TR"><metamark xml:id="MM_lid_160v03"/><add ana="IN.MM.IL.AV" place="above">aines</add></mod><anchor xml:id="ftn603"/> / perichten mi-2ch # lieber sun des vrag </l>
+                    <l xml:id="lid_160v03">ren schol die sele dei-2n # du scholt <mod ana="TR"><metamark xml:id="MM_lid_160v03"/><add ana="IN.IL.AV" place="above">aines</add></mod><anchor xml:id="ftn603"/> / perichten mi-2ch # lieber sun des vrag </l>
 
                     <l xml:id="lid_161r01">ich di-2ch # seit duz d* bare got pi-2st # mag dich dehai-2ner hande li-2st # vo- dem </l>
                     <l xml:id="lid_161r02">piterm toed erneren # vn- dei-2ne<mod ana="TR"><add ana="IN.IL.AV" place="above">r</add></mod><anchor xml:id="ftn604"/> vei-2nde sich erberen # daz du erloestest </l>
